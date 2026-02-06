@@ -1,0 +1,1793 @@
+{
+    "summary": {
+        "companyManual": {
+            "content": "Sécurité Services Plus (SS+), fondée en 2002, est une entreprise basée en Tunisie spécialisée dans les équipements de lutte contre l'incendie et les solutions de sécurité au travail avec plus de 23 ans d'expérience. Basée à Sfax avec une succursale significative à Tunis, l'entreprise offre une couverture nationale pour les entreprises de toutes tailles, proposant des produits allant des extincteurs et systèmes de détection aux équipements de protection individuelle (EPI) et aux vêtements de travail industriels. L'organisation est structurée en SARL et est dirigée par les gérants Karim Ben Salem et Najla Ben Salem, qui supervisent la stratégie, les ventes et les achats.\n\n\n**Produits de Base et Services Techniques**\n\nSS+ propose un large éventail de solutions de sécurité conformes aux normes internationales et locales :\nÉquipements de Lutte contre l'Incendie : L'entreprise vend, installe et entretient divers extincteurs (Poudre, CO2, Mousse, Eau, Agent Propre) de 1 kg à plus de 50 kg, fournissant des certificats d'installation et de conformité. Elle gère également les systèmes de dévidoirs tuyaux, les systèmes de détection et d'alarme incendies, et l'éclairage de secours.\nÉquipements de Protection Individuelle (EPI) : Son inventaire comprend une protection de la tête, des yeux, du visage, des mains, respiratoire, auditive, antichute et des pieds.\nVêtements de Travail et Uniformes : SS+ fournit des vêtements de travail industriels, y compris des combinaisons ignifuges et des vêtements à haute visibilité, et propose des services de personnalisation tels que la broderie et la sérigraphie.\nSignalisation de Sécurité et Premiers Secours : Ils produisent et installent diverses señales de sécurité (sortie de secours, avertissement, obligatoire) utilisant des matériaux comme le PVC et l'aluminium photoluminescent, ainsi que des trousses de premiers secours et douches de secours.\n\n\n**Normes Opérationnelles et Engagements de Service**\n\nL'entreprise se différencie par des normes de service strictes et une technologie moderne :\nDélais de Réponse : SS+ s'engage à répondre aux appels téléphoniques dans les trois sonneries, aux demandes par e-mail dans les quatre heures et à fournir des devis dans un jour ouvrable. Les services d'urgence sont traités dans les 24 heures.\nAssurance Qualité : Les techniciens sont hautement formés et tous les services sont garantis 6 mois. La qualité est gérée via une liste de contrôle d'auto-inspection des techniciens et des contrôles aléatoires par les chefs d'équipe.\nIntégration Numérique : L'entreprise utilise l'application web WAVE PLUS, permettant aux clients de suivre l'historique des services, les certificats et les renouvellements via un portail en ligne.\n\n\n**Gouvernance et Autorité de Décision**\n\nLe manuel décrit une matrice d'autorité claire pour assurer des opérations efficaces et contrôlées :\nDécisions Stratégiques : Seul les gérants peuvent approuver les investissements majeurs, les affaires juridiques dépassant 10 000 TND ou les remises supérieures à 20%.\nLimites d'Approbation Financière : L'autorité de dépenses est échelonnée par poste ; par exemple, les responsables des opérations peuvent approuver jusqu'à 1 000 TND, les chefs d'équipe jusqu'à 500 TND et les techniciens jusqu'à 100 TND.\nAutorité de Signature : Les contrats et transactions bancaires dépassant 5 000 TND nécessitent généralement deux signatures de l'équipe de direction.\n\n\n**Politiques Commerciales et Financières**\n\nSS+ utilise des politiques de prix et de crédit structurées pour gérer les risques commerciaux et les relations clients :\nPrix et Remises : Les équipements d'extinction ont généralement une marge standard de 35%. Les représentants commerciaux ont l'autorité d'accorder des remises jusqu'à 15%, tandis que le responsable commercial peut approuver jusqu'à 20%.\nConditions de Paiement : Bien que les nouveaux clients fonctionnent généralement sur une base paiement à la livraison ou d'acompte de 50%, les clients établis et loyaux peuvent obtenir des conditions de 30, 60 ou 90 jours.\nFrais de Déplacement : Le déplacement est gratuit dans un rayon de 120 km des installations de Sfax ou de Tunis ; au-delà, des frais échelonnés s'appliquent (par exemple, 150 TND pour 121-200 km) sauf annulation pour les grandes commandes ou les clients sous contrat.\nGestion des Risques : L'entreprise décline proactivement les affaires impliquant un risque de crédit élevé, des réputations contentieuses ou des exigences techniques dépassant leur expertise ou leurs normes de sécurité.\n\n\n**Éthique et Traitement des Plaintes**\n\nL'entreprise maintient des normes éthiques élevées, interdisant strictement les conflits d'intérêts et l'acceptation de cadeaux coûteux dépassant 100 TND. Leur processus de traitement des plaines est rigoureux, nécessitant un accusé de réception dans les quatre heures et visant une investigation et une résolution dans les 24 à 72 heures. Si SS+ est en faute pour une erreur de service, ils fournissent gratuitement une reprise ou une correction immédiate. Tous les employés doivent reconnaître la réception et la compréhension de ce manuel pour assurer l'alignement avec les valeurs de l'entreprise et les règles opérationnelles."
+        }
+    },
+    "navigation": {
+        "companyManual": {
+            "title": "Manuel d'Entreprise",
+            "description": "Manuel complet des opérations et directives de l'entreprise"
+        },
+        "moneyFinance": {
+            "title": "Finance & Comptabilité",
+            "description": "Gestion financière, budgétisation et procédures comptables"
+        },
+        "peopleAdmin": {
+            "title": "Personnel & Admin",
+            "description": "Politiques RH, gestion du personnel et procédures administratives"
+        },
+        "productsInventory": {
+            "title": "Produits & Stock",
+            "description": "Gestion des produits, contrôle des stocks et opérations d'entrepôt"
+        },
+        "salesCustomer": {
+            "title": "Ventes & Clientèle",
+            "description": "Processus de vente, service client et gestion des relations"
+        },
+        "serviceDelivery": {
+            "title": "Livraison de Service",
+            "description": "Normes de livraison de service, contrôle qualité et satisfaction client"
+        },
+        "handbook": {
+            "title": "Guide de l'Employé",
+            "description": "Lignes directrices, politiques et culture d'entreprise"
+        }
+    },
+    "app": {
+        "title": "Système de Gestion SS PLUS",
+        "subtitle": "Services d'Équipement Incendie & Solutions de Sécurité"
+    },
+    "nav": {
+        "home": "Accueil",
+        "documents": "Documents",
+        "records": "Enregistrements",
+        "audits": "Audits",
+        "settings": "Paramètres"
+    },
+    "common": {
+        "save": "Enregistrer",
+        "cancel": "Annuler",
+        "close": "Fermer",
+        "delete": "Supprimer",
+        "edit": "Modifier",
+        "view": "Voir",
+        "download": "Télécharger",
+        "print": "Imprimer",
+        "export": "Exporter",
+        "search": "Rechercher",
+        "filter": "Filtrer",
+        "back": "Retour",
+        "next": "Suivant",
+        "previous": "Précédent",
+        "loading": "Chargement...",
+        "noData": "Aucune donnée disponible",
+        "error": "Une erreur s'est produite",
+        "success": "Opération réussie",
+        "confirm": "Confirmer",
+        "yes": "Oui",
+        "no": "Non"
+    },
+    "documents": {
+        "title": "Documents d'Entreprise",
+        "companyManual": "Manuel d'Entreprise",
+        "handbook": "Manuel de l'Employé",
+        "moneyFinance": "Finances & Comptabilité",
+        "peopleAdmin": "Ressources Humaines & Admin",
+        "productsInventory": "Produits & Inventaire",
+        "salesCustomer": "Ventes & Clients",
+        "serviceDelivery": "Prestation de Services"
+    },
+    "records": {
+        "title": "Enregistrements de Gestion",
+        "finance": "Finance",
+        "hr": "Ressources Humaines",
+        "sales": "Ventes",
+        "operations": "Opérations",
+        "inventory": "Inventaire",
+        "administrative": "Administratif",
+        "quality": "Qualité",
+        "new": "Nouvel Enregistrement",
+        "view": "Voir l'Enregistrement",
+        "department": "Département",
+        "category": "Catégorie",
+        "status": "Statut",
+        "version": "Version",
+        "effectiveDate": "Date d'Effet",
+        "approvedBy": "Approuvé par"
+    },
+    "forms": {
+        "required": "Champ obligatoire",
+        "invalidEmail": "Adresse e-mail invalide",
+        "invalidPhone": "Numéro de téléphone invalide",
+        "invalidDate": "Date invalide",
+        "minLength": "La longueur minimale est de {{count}} caractères",
+        "maxLength": "La longueur maximale est de {{count}} caractères",
+        "submit": "Soumettre",
+        "reset": "Réinitialiser",
+        "fillRequired": "Veuillez remplir tous les champs obligatoires"
+    },
+    "pdf": {
+        "generate": "Générer PDF",
+        "generating": "Génération du PDF...",
+        "download": "Télécharger PDF",
+        "preview": "Aperçu PDF",
+        "error": "Erreur lors de la génération du PDF"
+    },
+    "print": {
+        "print": "Imprimer",
+        "printPreview": "Aperçu avant impression",
+        "pageSetup": "Configuration de la page",
+        "landscape": "Paysage",
+        "portrait": "Portrait"
+    },
+    "language": {
+        "select": "Sélectionner la Langue",
+        "english": "English",
+        "french": "Français",
+        "arabic": "العربية"
+    },
+    "theme": {
+        "light": "Clair",
+        "dark": "Sombre",
+        "toggle": "Basculer le Thème"
+    },
+    "audit": {
+        "title": "Rapports d'Audit",
+        "preImplementation": "Audit Pré-Implémentation",
+        "findings": "Constatations",
+        "recommendations": "Recommandations",
+        "riskLevel": "Niveau de Risque",
+        "status": "Statut"
+    },
+    "dashboard": {
+        "welcome": "Bienvenue",
+        "overview": "Aperçu du Système",
+        "quickAccess": "Accès Rapide",
+        "recentDocuments": "Documents Récents",
+        "pendingApprovals": "Approbations en Attente",
+        "statistics": "Statistiques"
+    },
+    "companyManual": {
+        "title": "Manuel d'Entreprise",
+        "documentNumber": "DOCUMENT 01",
+        "companyName": "Sécurité Services Plus (SS+)",
+        "companyTagline": "Services d'Équipement Incendie & Solutions de Sécurité",
+        "meta": {
+            "version": "Version 0.4",
+            "effectiveDate": "Novembre 2025",
+            "documentOwner": "Karim BEN SALEM (Gérant)",
+            "createdBy": "Anis HWAS (WAVE IO)",
+            "reviewFrequency": "Annuellement ou selon les besoins"
+        },
+        "toc": {
+            "title": "TABLE DES MATIÈRES",
+            "section1": "SECTION 1 : À PROPOS DE NOTRE ENTREPRISE",
+            "section2": "SECTION 2 : COMMENT NOUS PRENONS LES DÉCISIONS",
+            "section3": "SECTION 3 : NOS NORMES DE SERVICE",
+            "section4": "SECTION 4 : RÈGLES COMMERCIALES CLÉS"
+        },
+        "sections": {
+            "section1": {
+                "title": "À PROPOS DE NOTRE ENTREPRISE",
+                "sectionNumber": "1",
+                "subsections": {
+                    "companyProfile": {
+                        "title": "Profil de l'Entreprise",
+                        "sectionNumber": "1.1",
+                        "content": {
+                            "companyIdentity": "Identité de l'Entreprise",
+                            "officialName": "Nom Officiel",
+                            "legalName": "Nom Juridique",
+                            "founded": "Fondée",
+                            "yearsOfExperience": "Années d'Expérience",
+                            "yearsOfExperienceValue": "23 ans dans la sécurité incendie et les solutions de sécurité au travail",
+                            "legalStructure": "Forme Juridique",
+                            "taxId": "ID Fiscal / Immatriculation",
+                            "contactInfo": "Coordonnées",
+                            "website": "Site Web",
+                            "email": "E-mail",
+                            "phone": "Téléphone",
+                            "phoneSfax": "+216 74 45 30 27 (Sfax Principal)",
+                            "phoneTunis": "+216 XX XX XX XX (Agence Tunis)",
+                            "locations": "Sites",
+                            "sfaxMainOffice": "Siège et Installations Principales (Sfax)",
+                            "tunisBranchOffice": "Agence et Installations Secondaires (Tunis)",
+                            "addressSfax": "Route de Gabès Km 3.5, Sfax, Tunisie",
+                            "addressTunis": "Raoud, Tunis, Tunisie",
+                            "corporateOffice": "Siège Social",
+                            "productShowroom": "Showroom de Produits",
+                            "mainWorkshop": "Atelier Principal",
+                            "mainWarehouse": "Entrepôt Principal",
+                            "branchOffice": "Agence",
+                            "secondaryWorkshop": "Atelier Secondaire",
+                            "secondaryWarehouse": "Entrepôt Secondaire",
+                            "servicesAvailable": "Services : Tous services disponibles"
+                        }
+                    },
+                    "whatWeDo": {
+                        "title": "Ce Que Nous Faisons",
+                        "sectionNumber": "1.2",
+                        "content": {
+                            "intro": "Sécurité Services Plus est le partenaire de confiance de la Tunisie pour les équipements de sécurité incendie complets et les solutions de sécurité au travail. Nous servons des entreprises de toutes tailles en Tunisie avec des produits de qualité, une installation professionnelle et des services de maintenance fiables.",
+                            "fireSafetyEquipment": "ÉQUIPEMENTS ET SERVICES DE SÉCURITÉ INCENDIE",
+                            "fireExtinguisherServices": "Services d'Extincteurs",
+                            "salesInstallation": "Vente & Installation",
+                            "allTypes": "Tous types : Poudre, CO2, Mousse, Eau, Agents Propres",
+                            "allSizes": "Toutes tailles : 1kg à 50kg et plus",
+                            "professionalInstallation": "Installation professionnelle avec signalétique et fixation appropriées",
+                            "certificateProvided": "Certificat d'installation fourni",
+                            "inspectionMaintenance": "Inspection & Maintenance",
+                            "annualInspection": "Programmes d'inspection annuelle",
+                            "semiAnnualInspection": "Programmes d'inspection semestrielle",
+                            "quarterlyInspection": "Inspection trimestrielle pour les installations à haut risque",
+                            "maintenanceRefilling": "Services complets de maintenance et de recharge",
+                            "hydrostaticTesting": "Essai hydrostatique",
+                            "complianceDocs": "Documentation de conformité",
+                            "fireHoseReel": "Systèmes de RIA (Robinet Incendie Armé)",
+                            "hoseReelSales": "Vente et installation professionnelle",
+                            "hoseReelInspection": "Services d'inspection et de maintenance",
+                            "hoseReelTesting": "Essai de pression et certification",
+                            "hoseReelRepairs": "Remplacement et réparation des tuyaux",
+                            "fireDetection": "Systèmes de Détection et Alarme Incendie",
+                            "detectorSales": "Vente, installation et test de détecteurs de fumée",
+                            "alarmInstallation": "Installation et maintenance de systèmes d'alarme incendie",
+                            "detectionInspection": "Inspection et certification des systèmes",
+                            "detectionRepair": "Services de réparation d'urgence",
+                            "otherFireEquipment": "Autres Équipements de Sécurité Incendie",
+                            "fireBlankets": "Couverts anti-incendie (vente et inspection)",
+                            "fireCabinets": "Armoires et rangements de sécurité",
+                            "emergencyLighting": "Systèmes d'éclairage de secours",
+                            "fireSignage": "Accessoires et signalétique de sécurité",
+                            "fireRatedDoors": "Portes coupe-feu et équipements",
+                            "ppeTitle": "ÉQUIPEMENTS DE PROTECTION INDIVIDUELLE (EPI)",
+                            "ppeIntro": "Nous fournissons des solutions EPI complètes pour toutes les industries :",
+                            "headProtection": "Protection de la Tête",
+                            "headHelmets": "Casques de sécurité et couvre-chefs (différentes classes)",
+                            "headBumpCaps": "Bump caps pour environnements à faible risque",
+                            "headAccessories": "Accessoires (sangles mentonnières, bandeaux sudoripares, doublures hiver)",
+                            "eyeProtection": "Protection des Yeux et du Visage",
+                            "eyeGlasses": "Lunettes et masques de sécurité",
+                            "eyeFaceShields": "Écrans faciaux",
+                            "eyeWelding": "Casques et écrans de soudage",
+                            "eyePrescription": "Lunettes de sécurité sur prescription",
+                            "handProtection": "Protection des Mains",
+                            "handGloves": "Gants de travail (cuir, coton, synthétique)",
+                            "handChemical": "Gants résistants aux produits chimiques",
+                            "handCut": "Gants anti-coupure",
+                            "handHeat": "Gants résistants à la chaleur",
+                            "handDisposable": "Gants jetables",
+                            "respiratoryProtection": "Protection Respiratoire",
+                            "respMasks": "Masques anti-poussière et respirateurs",
+                            "respHalfFull": "Respirateurs demi-visage et visage complet",
+                            "respFilters": "Cartouches filtrantes (gaz, vapeur, particules)",
+                            "respEscape": "Respirateurs d'évacuation",
+                            "hearingProtection": "Protection Auditive",
+                            "hearEarplugs": "Bouchons d'oreilles (jetables et réutilisables)",
+                            "hearEarmuffs": "Arceaux antibruit",
+                            "hearHeadsets": "Casques de communication",
+                            "fallProtection": "Protection contre les Chutes",
+                            "fallHarnesses": "Harnais de sécurité (corps entier, demi-corps)",
+                            "fallLanyards": "Longes et absorbeurs de choc",
+                            "fallAnchors": "Points d'ancrage et lignes de vie",
+                            "fallArrest": "Systèmes d'arrêt de chute",
+                            "fallRescue": "Équipements de sauvetage",
+                            "footProtection": "Protection des Pieds",
+                            "footBoots": "Bottes et chaussures de sécurité (embout acier, embout composite)",
+                            "footChemical": "Chaussures résistantes aux produits chimiques",
+                            "footSlip": "Chaussures antidérapantes",
+                            "footIndustrial": "Chaussures industrielles spécialisées",
+                            "workwearTitle": "VÊTEMENTS DE TRAVAIL & UNIFORMES",
+                            "industrialWorkwear": "Vêtements de Travail Industriels",
+                            "coveralls": "Combinaisons (standard et ignifugées)",
+                            "workShirts": "Chemises et pantalons de travail",
+                            "highVis": "Vêtements haute visibilité (EN ISO 20471)",
+                            "protectiveClothing": "Vêtements de protection spécialisés (Nomex, résistants aux produits chimiques)",
+                            "customBranding": "Services de Personnalisation",
+                            "logoEmbroidery": "Broderie de logo",
+                            "screenPrinting": " Sérigraphie",
+                            "heatTransfer": "Transfert thermique",
+                            "uniformPrograms": "Programmes d'uniformes d'entreprise",
+                            "industryWorkwear": "Vêtements de Travail par Industrie",
+                            "oilGas": "Industrie pétrolière et gaz (vêtements ignifugés FR, Nomex)",
+                            "construction": "Construction et bâtiment",
+                            "manufacturing": "Fabrication et usines",
+                            "foodProcessing": "Agroalimentaire (vêtements hygiéniques)",
+                            "healthcare": "Santé et laboratoires",
+                            "hospitality": "Hôtellerie et commerce de détail",
+                            "safetySignageTitle": "SIGNALÉTIQUE DE SÉCURITÉ & SÉCURITÉ AU TRAVAIL",
+                            "safetySigns": "Signalétique de Sécurité (Tous Types)",
+                            "exitSigns": "Sorties de secours (photoluminescentes, LED)",
+                            "warningSigns": "Panneaux d'avertissement (identification des dangers)",
+                            "mandatorySigns": "Panonceaux obligatoires (exigences EPI)",
+                            "prohibitionSigns": "Panons interdits (interdiction de fumer, accès interdit)",
+                            "fireSigns": "Signalisation incendie (localisation extincteurs, points de rassemblement)",
+                            "customSignage": "Signalétique de sécurité personnalisée",
+                            "signProduction": "Services de Fabrication de Panneaux",
+                            "signMaterials": "Divers matériaux (PVC, aluminium, Vinyle, photoluminescent)",
+                            "signSizes": "Toutes tailles et formats",
+                            "signInstallation": "Services d'installation",
+                            "signCompliance": "Conformité aux normes internationales",
+                            "firstAidTitle": "SECOURISME & ÉQUIPEMENTS D'URGENCE",
+                            "firstAidBoxes": "Boîtes et kits de premiers secours (toutes tailles)",
+                            "firstAidRoom": "Équipements de salle de soins",
+                            "emergencyShowers": "Douches et stations de lavage oculaire d'urgence",
+                            "spillKits": "Kits de confinement de déversements",
+                            "stretchers": "Brancards et couvertures d'urgence"
+                        }
+                    },
+                    "serviceCommitment": {
+                        "title": "Notre Engagement de Service",
+                        "sectionNumber": "1.3",
+                        "content": {
+                            "committedTo": "Chez SS+, nous nous engageons à :",
+                            "qualityWorkmanship": "Un Travail de Qualité",
+                            "qualityTechnicians": "Techniciens hautement formés et certifiés",
+                            "qualityStandards": "Respect strict des normes et réglementations de sécurité",
+                            "qualityProducts": "Produits de qualité de fournisseurs internationaux de confiance",
+                            "qualityDocs": "Documentation et certification appropriées pour tous les travaux",
+                            "qualityExpertise": "23 ans d'expertise prouvée",
+                            "quickResponse": "Délais de Réponse Rapides",
+                            "responseInquiries": "Réponse en 4 heures aux demandes",
+                            "responseEmergencies": "Réponse en 24 heures pour les urgences",
+                            "responseQuotations": "Devis sous 24h ou sous 48h",
+                            "responseAppointments": "Rendez-vous de service sous 7 jours",
+                            "responseCoverage": "Équipes dédiées à Sfax et Tunis pour une couverture plus rapide",
+                            "professionalService": "Service Professionnel",
+                            "profStaff": "Personnel courtois et respectueux",
+                            "profVehicles": "Véhicules et équipements propres et bien entretenus",
+                            "profAppearance": "Apparence et comportement professionnels",
+                            "profCommunication": "Communication claire tout au long du service",
+                            "profRespect": "Respect des installations et règles de sécurité du client",
+                            "reliability": "Fiabilité",
+                            "relCommitments": "Nous respectons nos engagements et délais",
+                            "relProactive": "Communication proactive en cas de retard",
+                            "relQuality": "Qualité de service constante",
+                            "relWarranty": "Garantie de 6 mois sur tous les services",
+                            "relReinspection": "Réinspection gratuite en cas de problème",
+                            "relEmergency": "Support d'urgence 24/7 pour les clients MSA (accord de service principal)",
+                            "whatMakesDifferent": "Ce Qui Distingue SS+",
+                            "diffExperience": "23 Ans d'Expérience - Au service de la Tunisie depuis 2002",
+                            "diffCertified": "Techniciens Certifiés - Spécialistes de la sécurité incendie professionnellement formés",
+                            "diffLocations": "Deux Sites - Installations Sfax et Tunis pour une couverture nationale",
+                            "diffSolutions": "Solutions Complètes - Guichet unique pour tous les besoins de sécurité",
+                            "diffProducts": "Produits de Qualité - Marques internationales et équipements certifiés",
+                            "diffTechnology": "Technologie Moderne - Application web WAVE PLUS pour la gestion des services",
+                            "diffPortal": "Portail Client - Suivez vos services, certificats et renouvellements en ligne"
+                        }
+                    },
+                    "coverageFacilities": {
+                        "title": "Notre Couverture et Installations",
+                        "sectionNumber": "1.4",
+                        "content": {
+                            "facilityCapabilities": "Capacités des Installations",
+                            "sfaxFacility": "Installation Principale Sfax (Route de Gabès Km 3.5)",
+                            "tunisFacility": "Agence Tunis (Raoud)",
+                            "showroom": "Showroom",
+                            "showroomFull": "Affichage complet des produits",
+                            "showroomPPE": "Espace d'essayage EPI et vêtements de travail",
+                            "showroomDemo": "Modèles de démonstration d'équipements incendie",
+                            "showroomConsultation": "Zone de consultation client",
+                            "workshop": "Atelier",
+                            "workshopRefilling": "Recharge et maintenance d'extincteurs",
+                            "workshopRepairs": "Réparation d'équipement et remplacement de pièces",
+                            "workshopQC": "Station de contrôle qualité",
+                            "warehouse": "Entrepôt",
+                            "warehouseExtinguishers": "Extincteurs (tous types et tailles)",
+                            "warehouseAgents": "Agents de recharge (poudre, CO2, mousse, eau)",
+                            "warehousePPE": "Inventaire EPI",
+                            "warehouseWorkwear": "Vêtements de travail et uniformes",
+                            "warehouseSignage": "Matériaux de signalétique de sécurité",
+                            "warehouseParts": "Pièces de rechange et accessoires",
+                            "tunisWorkshop": "Maintenance et recharge d'extincteurs",
+                            "tunisTesting": "Tests et réparations d'équipements",
+                            "tunisStock": "Stock stratégique pour une livraison rapide",
+                            "tunisMaterials": "Extincteurs et matériaux de recharge",
+                            "tunisPPE": "EPI et vêtements de travail",
+                            "tunisParts": "Pièces de rechange courantes",
+                            "geographicArea": "Zone Géographique de Service",
+                            "serveTunisia": "Nous servons toute la Tunisie",
+                            "primaryCoverage": "Couverture principale : Gouvernorat de Sfax et Tunis/Grand Tunis",
+                            "extendedCoverage": "Couverture étendue : Tous les gouvernorats nationaux",
+                            "travelFeesApply": "Frais de déplacement applicables pour les localités à plus de 120km de nos installations"
+                        }
+                    },
+                    "organizationStructure": {
+                        "title": "Structure Organisationnelle",
+                        "sectionNumber": "1.5",
+                        "content": {
+                            "managementTeam": "Équipe de Direction",
+                            "karimBenSalem": "Karim BEN SALEM",
+                            "karimRole": "Gérant",
+                            "karimResponsibilities": [
+                                "Stratégie globale et orientation de l'entreprise",
+                                "Autorité finale sur les décisions majeures",
+                                "Relations clients clés"
+                            ],
+                            "najlaBenSalem": "Najla BEN SALEM",
+                            "najlaRole": "Co-Gérante & Resp. Ventes",
+                            "najlaResponsibilities": [
+                                "Stratégie commerciale et développement des affaires",
+                                "Gestion des achats et relations fournisseurs",
+                                "Décisions tarifaires et commerciales",
+                                "Autorité financière illimitée"
+                            ],
+                            "operationsLeadership": "Leadership des Opérations",
+                            "mohamedChraiti": "Mohamed CHRAITI",
+                            "mohamedRole": "Responsable des Opérations & Représentant Technique Commercial (Sfax)",
+                            "mohamedResponsibilities": [
+                                "Gestion globale de la livraison des services",
+                                "Coordination et performance de l'équipe",
+                                "Assurance qualité du service",
+                                "Excellence du service client",
+                                "Activités commerciales dans la région de Sfax",
+                                "Autorité financière : jusqu'à 1 000 TND"
+                            ],
+                            "salesCustomerService": "Ventes & Service Client",
+                            "salesRepresentatives": "Représentants Commerciaux",
+                            "mohamedChraitiSfax": "Mohamed CHRAITI - Région Sfax",
+                            "kaisKhairallah": "Kais KHAIRALLAH - Région Tunis",
+                            "kaisResponsibilities": [
+                                "Développement de nouvelles affaires",
+                                "Devis et propositions clients",
+                                "Négociation de contrats",
+                                "Gestion de la relation client",
+                                "Activités de recouvrement (Tunis)"
+                            ],
+                            "note": "Note :",
+                            "noteText": "Mohamed CHRAITI sert de Responsable des Opérations et Représentant Technique Commercial basé à Sfax. Kais KHAIRALLAH est le Représentant Commercial à Tunis et sert également d'Agent de Recouvrement à Tunis — c'est la principale différence fonctionnelle entre leurs rôles.",
+                            "subRoles": "Rôles Subordonnés",
+                            "mohamedAliLenda": "Mohamed Ali LENDA",
+                            "mohamedAliRole": "Resp. Admin & Finance",
+                            "mohamedAliDesc": "Facturation, comptabilité et signature de documents légaux.",
+                            "helaDaoud": "Hela DAOUD",
+                            "helaRole": "Resp. Recouvrement",
+                            "helaDesc": "Gestion AR, suivis de paiement et négociation.",
+                            "kaisSalesTunis": "Kais KHAIRALLAH",
+                            "kaisSalesRole": "Ventes (Tunis)",
+                            "kaisSalesDesc": "Dev commercial et agent de recouvrement local à Tunis.",
+                            "teamLeaders": "Chefs d'Équipe",
+                            "teamLeadersRole": "Tech A / Tech B",
+                            "teamLeadersDesc": "QC au niveau du site, formation et autorité de 500 TND.",
+                            "companyOrganigram": "Organigramme de l'Entreprise",
+                            "technicalOrganigram": "Organigramme des Opérations Techniques",
+                            "positions": {
+                                "karimManager": "Karim BEN SALEM",
+                                "karimTitle": "Gérant",
+                                "najlaCoManager": "Najla BEN SALEM",
+                                "najlaTitle": "Co-Gérante & Responsable Commercial",
+                                "najlaTitleShort": "Co-Gérante",
+                                "mohamedOps": "Mohamed CHRAITI",
+                                "mohamedOpsTitle": "Opérations",
+                                "mohamedOpsTitleDark": "Resp. Opérations",
+                                "salesReps": "Najla / Reps Ventes",
+                                "salesTitle": "Ventes",
+                                "financeAdmin": "Mohamed Ali LENDA",
+                                "financeTitle": "Finance & Admin",
+                                "collections": "Hela DAOUD",
+                                "collectionsTitle": "Recouvrement",
+                                "teamLeaderA": "Chef d'Équipe (A)",
+                                "workshopResp": "Resp. Atelier (Sfax)",
+                                "teamLeaderB": "Chef d'Équipe (B)"
+                            }
+                        }
+                    },
+                    "keyContacts": {
+                        "title": "Contacts Clés",
+                        "sectionNumber": "1.6",
+                        "content": {
+                            "generalInquiries": "Informations Générales",
+                            "email": "E-mail",
+                            "phone": "Téléphone",
+                            "website": "Site Web",
+                            "contactEmail": "contact@ssplus.tn",
+                            "contactPhone": "+216 74 45 30 27",
+                            "websiteUrl": "www.ssplus.tn",
+                            "management": "Direction",
+                            "tableHeaders": {
+                                "name": "Nom",
+                                "position": "Fonction",
+                                "phone": "Téléphone",
+                                "email": "E-mail",
+                                "responsibility": "Responsabilité"
+                            },
+                            "managementContacts": [
+                                {
+                                    "name": "Karim BEN SALEM",
+                                    "position": "Gérant",
+                                    "phone": "+216 29 308 108",
+                                    "email": "direction@ssplus.tn",
+                                    "responsibility": "Direction Générale, Décisions Majeures"
+                                },
+                                {
+                                    "name": "Najla BEN SALEM",
+                                    "position": "Co-Gérante & Responsable Commercial",
+                                    "phone": "+216 28 615 020",
+                                    "email": "direction@ssplus.tn",
+                                    "responsibility": "Ventes, Achats, Stratégie Commerciale"
+                                },
+                                {
+                                    "name": "Mohamed CHRAITI",
+                                    "position": "Responsable des Opérations & Rep. Tech. Commercial (Sfax)",
+                                    "phone": "+216 29 308 933",
+                                    "email": "operations@ssplus.tn",
+                                    "responsibility": "Livraison des Services, Opérations, Ventes Techniques (Sfax)"
+                                },
+                                {
+                                    "name": "Mohamed Ali LENDA",
+                                    "position": "Responsable Admin & Finance",
+                                    "phone": "+216 27 888 784",
+                                    "email": "admin@ssplus.tn",
+                                    "responsibility": "Finance, Administration"
+                                },
+                                {
+                                    "name": "Hela DAOUD",
+                                    "position": "Responsable Recouvrement",
+                                    "phone": "+216 22 039 026",
+                                    "email": "recouvrement@ssplus.tn",
+                                    "responsibility": "Recouvrement des Paiements"
+                                }
+                            ],
+                            "salesContacts": "Contacts Commerciaux",
+                            "salesTableHeaders": {
+                                "region": "Région",
+                                "contactPerson": "Personne de Contact",
+                                "phoneEmail": "Téléphone / E-mail"
+                            },
+                            "salesRows": [
+                                { "region": "Sfax", "contact": "Mohamed CHRAITI", "phoneEmail": "+216 29 308 933 / sales@ssplus.tn" },
+                                { "region": "Tunis", "contact": "Kais KHAIRALLAH", "phoneEmail": "+216 98 796 368 / sales@ssplus.tn" }
+                            ],
+                            "emergencyService": "Service d'Urgence",
+                            "emergencyLine": "Ligne d'Urgence 24/7 :",
+                            "emergencyPhone": "+216 XX XX XX XX",
+                            "emergencyEmail": "E-mail d'Urgence :",
+                            "emergencyEmailValue": "emergency@ssplus.tn",
+                            "customerPortal": "Portail Client",
+                            "wavePlusApp": "Application WAVE PLUS :",
+                            "wavePlusUrl": "https://www.ssplus.tn/waveplus",
+                            "wavePlusDesc": "Accédez à votre historique de services, certificats et informations contractuelles en ligne",
+                            "launchWavePlus": "Lancer WAVE PLUS"
+                        }
+                    }
+                }
+            },
+            "section2": {
+                "title": "COMMENT NOUS PRENONS LES DÉCISIONS",
+                "sectionNumber": "2",
+                "subsections": {
+                    "authorityMatrix": {
+                        "title": "Matrice d'Autorité",
+                        "sectionNumber": "2.1",
+                        "content": {
+                            "intro": "Cette matrice définit qui peut prendre quelles décisions chez SS+. Des niveaux d'autorité clairs garantissent des opérations efficaces tout en maintenant des contrôles appropriés.",
+                            "workflowTitle": "Processus d'Approbation de la Direction",
+                            "strategicTitle": "Stratégique (Gérants Uniquement)",
+                            "strategy": "Stratégie : Orientation de l'entreprise et plans d'expansion.",
+                            "investment": "Investissement : Dépenses en capital majeures (véhicules, biens immobiliers).",
+                            "personnel": "Personnel : Embauche des Responsables et du personnel clé.",
+                            "financial": "Financier : Prêts, relations bancaires et crédit > 5k TND.",
+                            "legal": "Juridique : Tous les contrats au-dessus de 10 000 TND.",
+                            "salesCommercialTitle": "Ventes & Commercial",
+                            "salesResponsibleTitle": "Responsable Commercial (Illimité)",
+                            "salesResponsibleItems": [
+                                "Toutes les décisions tarifaires et remises jusqu'à 20%.",
+                                "Négociations avec les fournisseurs et sélection des produits."
+                            ],
+                            "salesRepsTitle": "Représentants Commerciaux",
+                            "salesRepsItems": [
+                                "Devis (standard) et remises jusqu'à 15%.",
+                                "Escalade : Demandes de crédit et réclamations majeures."
+                            ],
+                            "operationsTitle": "Opérations",
+                            "opsResponsibleTitle": "Resp. Opérations (1 000 TND)",
+                            "opsResponsibleItems": [
+                                "Planification des techniciens et allocation des véhicules.",
+                                "Auth. d'urgence et Rework/Crédits jusqu'à 1k TND."
+                            ],
+                            "teamLeadersTitle": "Chefs d'Équipe (500 TND)",
+                            "teamLeadersItems": [
+                                "Affectations du travail et dépenses matérielles mineures.",
+                                "Ajustements quotidiens du planning et récupération client."
+                            ],
+                            "financePurchaseTitle": "Finance & Achat",
+                            "adminFinanceTitle": "Admin & Finance (Routinier)",
+                            "adminFinanceItems": [
+                                "Traitement des paiements selon les BC et opérations bancaires routinières.",
+                                "Facturation et approbation des dépenses selon la politique."
+                            ],
+                            "purchaseRespTitle": "Resp. Achat (Illimité)",
+                            "purchaseRespItems": [
+                                "Sélection des fournisseurs et approbations d'achats.",
+                                "Demandes de réapprovisionnement de stock (Entrepôt : 500 TND)."
+                            ]
+                        }
+                    },
+                    "financialLimits": {
+                        "title": "Limites d'Approbation Financière",
+                        "sectionNumber": "2.2",
+                        "content": {
+                            "tableHeaders": {
+                                "position": "Fonction",
+                                "purchaseAuthority": "Autorité d'Achat",
+                                "serviceCredit": "Crédit/Remboursement Service",
+                                "discountAuthority": "Autorité de Remise"
+                            },
+                            "positions": {
+                                "managers": "Gérants",
+                                "salesResponsible": "Responsable Commercial",
+                                "opsResponsible": "Responsable des Opérations",
+                                "adminFinance": "Admin & Finance",
+                                "teamLeaders": "Chefs d'Équipe",
+                                "salesReps": "Représentants Commerciaux",
+                                "technicians": "Techniciens",
+                                "warehouseResp": "Responsable Entrepôt"
+                            },
+                            "values": {
+                                "unlimited": "ILLIMITÉ",
+                                "perApprovedPO": "Par BC approuvé",
+                                "notApplicable": "—"
+                            },
+                            "approvalRequirementsTitle": "Exigences d'Approbation par Valeur de Transaction",
+                            "transactionTable": {
+                                "amount": "Montant de la Transaction",
+                                "approver": "Approbateur Requis"
+                            },
+                            "transactions": [
+                                { "amount": "0 – 100 TND", "approver": "Titulaire de l'autorité de la fonction" },
+                                { "amount": "101 – 500 TND", "approver": "Chef d'Équipe ou supérieur" },
+                                { "amount": "501 – 1 000 TND", "approver": "Responsable des Opérations ou supérieur" },
+                                { "amount": "1 001 – 5 000 TND", "approver": "Responsable Commercial ou Resp. Admin" },
+                                { "amount": "Plus de 5 000 TND", "approver": "Approbation du Gérant requise" }
+                            ],
+                            "multipleApprovalsTitle": "ApprobMultiples Requises",
+                            "multipleApprovalsItems": [
+                                "Achats au-dessus de 10 000 TND : Deux signatures (Les deux Gérants).",
+                                "Crédit client au-dessus de 5 000 TND : Responsable Commercial + Gérant.",
+                                "Remises au-dessus de 20% : Gérant uniquement.",
+                                "Pertes au-dessus de 2 000 TND : Les deux Gérants."
+                            ]
+                        }
+                    },
+                    "signatureAuthority": {
+                        "title": "Autorité de Signature",
+                        "sectionNumber": "2.3",
+                        "content": {
+                            "title": "Protocoles d'Autorité de Signature",
+                            "contractsTitle": "Contrats & Accords",
+                            "contractsFull": "Autorité Complète : Gérants et Co-Gérants.",
+                            "contractsLimited": "Autorité Limitée : Resp. Admin & Finance pour les documents fournisseurs/admin routiniers.",
+                            "bankingTitle": "Financier & Bancaire",
+                            "bankingTransactions": "Transactions Bancaires : Gérants (Signataires). Admin (Routinier uniquement).",
+                            "checksValue": "Chèques > 5 000 TND : Deux signatures requises.",
+                            "billingTitle": "Facturation & Bons de Commande",
+                            "invoices": "Factures : Signées par Admin, Ventes ou Resp. Opérations.",
+                            "poApproval": "BC > 5 000 TND : Approbation Resp. Commercial + Gérant.",
+                            "certificatesTitle": "Certificats Techniques",
+                            "workOrders": "Ordres de Travail : Techniciens et Chefs d'Équipe.",
+                            "certification": "Certification Finale : Responsable des Opérations pour les projets majeurs."
+                        }
+                    },
+                    "ethicsConduct": {
+                        "title": "Éthique des Affaires & Conduite",
+                        "sectionNumber": "2.4",
+                        "content": {
+                            "prohibitedTitle": "STRICTEMENT INTERDIT",
+                            "prohibitedItems": [
+                                "Conflits d'Intérêts : Participation financière chez des concurrents/fournisseurs.",
+                                "Cadeaux : Espèces, bons d'achat ou cadeaux d'une valeur supérieure à 100 TND.",
+                                "Mauvaise Conduite : Corruption, dénigrement des concurrents, surfacturation.",
+                                "Confidentialité : Discussion de données clients en dehors du travail."
+                            ],
+                            "requiredTitle": "NORMES REQUISES",
+                            "requiredItems": [
+                                "Équité de Traitement : Service égal indépendamment de la taille du client.",
+                                "Conformité : Adhésion totale au Code du Travail Tunisien et aux normes incendie.",
+                                "Propriété : Véhicules/outils de l'entreprise pour usage professionnel uniquement.",
+                                "Signalement : Pas de représailles pour signaler des violations éthiques."
+                            ]
+                        }
+                    }
+                }
+            },
+            "section3": {
+                "title": "NOS NORMES DE SERVICE",
+                "sectionNumber": "3",
+                "subsections": {
+                    "customerService": {
+                        "title": "Engagements de Service Client",
+                        "sectionNumber": "3.1",
+                        "content": {
+                            "ourPromise": "Notre Promesse à Chaque Client",
+                            "atSsPlus": "Chez SS+, chaque client mérite :",
+                            "customerPledges": [
+                                { "title": "Respect", "description": "Traitement courtois et professionnel indépendamment de la taille de l'entreprise" },
+                                { "title": "Réactivité", "description": "Réponses rapides et livraison de service en temps opportun" },
+                                { "title": "Expertise", "description": "Personnel compétent et techniciens certifiés" },
+                                { "title": "Qualité", "description": "Travail correct fait du premier coup" },
+                                { "title": "Transparence", "description": "Prix clairs, conseils honnêtes, pas de frais cachés" },
+                                { "title": "Fiabilité", "description": "Nous venons quand promis et tenons nos engagements" },
+                                { "title": "Support", "description": "Aide quand vous en avez besoin, y compris en cas d'urgence" }
+                            ]
+                        }
+                    },
+                    "responseTime": {
+                        "title": "Normes de Temps de Réponse",
+                        "sectionNumber": "3.2",
+                        "content": {
+                            "inquiriesQuotations": "Demandes & Devis",
+                            "inquiryTableHeaders": {
+                                "channelService": "Canal/Service",
+                                "targetTime": "Cible Temporelle",
+                                "responsibility": "Responsabilité"
+                            },
+                            "inquiryRows": [
+                                { "channel": "Appels Téléphoniques", "time": "Dans les 3 sonneries", "responsibility": "Admin/Ventes" },
+                                { "channel": "Demandes par E-mail", "time": "Dans les 4 heures", "responsibility": "Équipe Commerciale" },
+                                { "channel": "Devis Standards", "time": "Dans les 24 heures", "responsibility": "Équipe Commerciale" }
+                            ],
+                            "serviceScheduling": "Planification des Services",
+                            "communications": "Communications",
+                            "serviceTable": {
+                                "regularMaint": "Maint. Régulier",
+                                "emergencyCall": "Appel Urgence",
+                                "installations": "Installations"
+                            },
+                            "serviceTimes": [
+                                { "type": "Maint. Régulier", "time": "Dans les 7 jours" },
+                                { "type": "Appel Urgence", "time": "Dans les 24 heures" },
+                                { "type": "Installations", "time": "Dans les 14 jours" }
+                            ],
+                            "commTable": {
+                                "complaints": "Réclamations",
+                                "serviceReports": "Rapports de Service",
+                                "billingQues": "Quest. Facturation"
+                            },
+                            "commTimes": [
+                                { "type": "Réclamations", "time": "Acc. dans 4h" },
+                                { "type": "Rapports de Service", "time": "Dans les 24h" },
+                                { "type": "Quest. Facturation", "time": "1 jour ouvré" }
+                            ]
+                        }
+                    },
+                    "technicalService": {
+                        "title": "Normes Techniques & sur Site",
+                        "sectionNumber": "3.3",
+                        "content": {
+                            "workmanship": "Qualité du Travail",
+                            "workmanshipList": [
+                                "Inspection : Vérification visuelle selon le code +证据 photo pour les défaillances.",
+                                "Maintenance : Agents de recharge certifiés uniquement ; aucune contamination autorisée.",
+                                "Installation : Hauteur conforme au code, sécurité du matériel et signalétique claire.",
+                                "Qualité : Contrôles ponctuels aléatoires à 20% par les Chefs d'Équipe sur tous les travaux."
+                            ],
+                            "professionalConduct": "Conduite Professionnelle",
+                            "conductList": [
+                                "Arriver dans la fenêtre horaire prévue.",
+                                "Porter un uniforme SS+ propre et un badge d'identification visible.",
+                                "INTERDICTION de fumer ou de langage inapproprié sur les lieux.",
+                                "La zone de travail doit être nettoyée après achèvement.",
+                                "Respecter les règles de sécurité spécifiques au site client."
+                            ]
+                        }
+                    },
+                    "qualityGuarantees": {
+                        "title": "Garanties de Qualité & Garanties",
+                        "sectionNumber": "3.4",
+                        "content": {
+                            "serviceWarranty": "Garantie Service de 6 Mois",
+                            "warrantyText": "Nous garantissons tout notre travail pendant 6 mois. Inclut les pièces défectueuses installées (manomètres, vannes, tuyaux) et toute défaillance due à notre erreur.",
+                            "excludes": "Exclut : Mauvaise utilisation, dommage accidentel ou équipement modifié.",
+                            "warrantyClaimResponse": "Réponse aux Demandes de Garantie",
+                            "hours48": "48H",
+                            "productWarrantyTableHeaders": {
+                                "productCategory": "Catégorie de Produit",
+                                "standardWarranty": "Garantie Standard",
+                                "conditions": "Conditions"
+                            },
+                            "productRows": [
+                                { "category": "Équipement Incendie (Neuf)", "warranty": "1 - 5 Ans", "conditions": "Selon specs fabricant" },
+                                { "category": "EPI & Vêtements de Travail", "warranty": "90 Jours - 1 An", "conditions": "Exclut l'usure normale/lavage" },
+                                { "category": "Signalétique Personnalisée", "warranty": "30 Jours", "conditions": "Défauts de production uniquement" }
+                            ],
+                            "freeReinspection": "Réinspection Gratuite : Signaler dans les 7 jours suivant le service pour vérification gratuite sous 48 heures."
+                        }
+                    },
+                    "complaintHandling": {
+                        "title": "Processus de Résolution des Réclamations",
+                        "sectionNumber": "3.5",
+                        "content": {
+                            "step01": "01",
+                            "step02": "02",
+                            "step03": "03",
+                            "step04": "04",
+                            "receive": "Réception",
+                            "receiveText": "Écouter, documenter, attribuer un n° de référence et accuser réception dans les 4 heures.",
+                            "investigate": "Enquêter",
+                            "investigateTime": "Réponse 24h",
+                            "investigateText": "Recueillir les faits, photos, enregistrements systèmes et entretiens avec le personnel.",
+                            "resolve": "Résoudre",
+                            "resolveTime": "Cible 48-72h",
+                            "resolveText": "Déterminer la faute ; fournir rework gratuit, crédit ou remplacement.",
+                            "followUp": "Suivi",
+                            "followUpTime": "1 Semaine Plus Tard",
+                            "followUpText": "Confirmer la satisfaction et mettre à jour les procédures pour éviter toute récurrence.",
+                            "resolutionGuidelines": "Lignes Directrices de Résolution",
+                            "ifSsAtFault": "Si SS+ Est en Faute",
+                            "ifNotSsFault": "Si Ce N'est Pas la Faute de SS+",
+                            "faultTableHeaders": {
+                                "issue": "Problème",
+                                "resolution": "Résolution"
+                            },
+                            "faultRows": [
+                                { "issue": "Erreur de Service", "resolution": "Rework Gratuit" },
+                                { "issue": "Produit Défectueux", "resolution": "Remplacement / Crédit Total" },
+                                { "issue": "Service en Retard", "resolution": "Exonération de Frais" }
+                            ],
+                            "notFaultRows": [
+                                { "issue": "Malentendu", "resolution": "Éducation/Explication" },
+                                { "issue": "Usure Normale", "resolution": "Proposer une Option Payante" },
+                                { "issue": "Hors Champ", "resolution": "Orienter vers un Spécialiste" }
+                            ]
+                        }
+                    }
+                }
+            },
+            "section4": {
+                "title": "RÈGLES COMMERCIALES CLÉS",
+                "sectionNumber": "4",
+                "subsections": {
+                    "pricingGuidelines": {
+                        "title": "Lignes Directrices Tarifaires",
+                        "sectionNumber": "4.1",
+                        "content": {
+                            "pricingPhilosophy": "Philosophie Tarifaire",
+                            "pricingPhilosophyText": "La tarification SS+ repose sur la Valeur Juste, la Cohérence et la Transparence. Nous assurons que des clients similaires reçoivent des tarifs similaires, avec flexibilité basée sur le volume et les engagements contractuels.",
+                            "standardProductMarkup": "Marge Standard sur Produits",
+                            "markupValue": "35%",
+                            "markupDescription": "Marge moyenne au-dessus du coût pour l'équipement, l'EPI et les vêtements de travail.",
+                            "tableHeaders": {
+                                "productService": "Produit/Service",
+                                "pricingMethod": "Méthode de Tarification",
+                                "notes": "Notes"
+                            },
+                            "rows": [
+                                { "product": "Services d'Extincteurs", "method": "Par Unité (Type/Taille)", "notes": "Inclut recharge, inspection, test" },
+                                { "product": "EPI & Vêtements de Travail", "method": "Paliers (10+, 50+, 100+)", "notes": "Remises de volume appliquées automatiquement" },
+                                { "product": "Signalétique Personnalisée", "method": "Matériau + Taille + Frais de Conception", "notes": "Frais de conception annulés pour les grandes commandes" },
+                                { "product": "MSA (Contrats)", "method": "Groupé / Réduit", "notes": "Prix bloqués pour 6 mois" }
+                            ]
+                        }
+                    },
+                    "discountAuthority": {
+                        "title": "Autorité & Règles de Remise",
+                        "sectionNumber": "4.2",
+                        "content": {
+                            "authorityLevels": "Niveaux d'Autorité",
+                            "salesReps": "Reps Commerciaux",
+                            "salesRepsDiscount": "Jusqu'à 15%",
+                            "salesResponsible": "Responsable Commercial",
+                            "salesResponsibleDiscount": "Jusqu'à 20%",
+                            "managers": "Gérants",
+                            "managersDiscount": "Au-dessus de 20%",
+                            "appropriateReasons": "Raisons Appropriées",
+                            "appropriateReasonsList": [
+                                "Grand volume de commande (10+ extincteurs, 100+ EPI).",
+                                "Engagement de contrat de maintenance annuel.",
+                                "Paiement d'avance (remise de 5%).",
+                                "Correspondance à un tarif concurrent vérifié."
+                            ],
+                            "inappropriateReasons": "Raisons Inappropriées",
+                            "inappropriateReasonsText": "Le client l'a simplement demandé ; Allégations concurrentes non vérifiées ; Relations personnelles ; Atteinte des objectifs de vente."
+                        }
+                    },
+                    "paymentTerms": {
+                        "title": "Conditions de Paiement & Politique de Crédit",
+                        "sectionNumber": "4.3",
+                        "content": {
+                            "tableHeaders": {
+                                "category": "Catégorie",
+                                "standardTerms": "Conditions Standard",
+                                "requirement": "Exigence"
+                            },
+                            "rows": [
+                                { "category": "Nouveaux Clients", "terms": "Espèces ou Acompte 50%", "requirement": "Jusqu'à approbation du crédit (min 3 mois d'historique)" },
+                                { "category": "Établis (Bon historique)", "terms": "Net 30 Jours", "requirement": "Standard pour comptes vérifiés" },
+                                { "category": "Fidèles / Stratégiques", "terms": "Net 60 Jours", "requirement": "Approbation du Responsable Commercial requise" },
+                                { "category": "Clients Contractuels", "terms": "Net 90 Jours", "requirement": "Engagement MSA signé" }
+                            ],
+                            "collectionTimeline": "Calendrier de Recouvrement de 90 Jours",
+                            "dueReminder": "ÉCHÉANCE\nRappel",
+                            "politeCall": "10J\nAppel Courtois",
+                            "escalation": "35J\nEscalade",
+                            "hold": "60J\nBLOCAGE",
+                            "legal": "90J\nLÉGAL",
+                            "creditApprovalProcess": "Processus d'Approbation de Crédit",
+                            "creditApprovalList": [
+                                "Recueillir l'ID fiscal, l'immatriculation et 2 contacts de référence.",
+                                "Limite initiale : 5 000 TND maximum pour les 3 premiers mois.",
+                                "Revue après 6 Mois pour augmentation de limite jusqu'à 10k TND.",
+                                "Approbation du Gérant requise pour toutes les limites au-dessus de 10 000 TND."
+                            ]
+                        }
+                    },
+                    "travelFees": {
+                        "title": "Frais de Déplacement Géographiques",
+                        "sectionNumber": "4.4",
+                        "content": {
+                            "freeZone": "ZONE GRatuite",
+                            "freeZoneDescription": "Dans les 120 km du Bureau",
+                            "freeZoneNote": "Appliqué au Sfax Principal et à l'Agence Tunis.",
+                            "tableHeaders": {
+                                "distance": "Distance",
+                                "standardFee": "Frais Standard"
+                            },
+                            "rows": [
+                                { "distance": "121 - 200 km", "fee": "150 TND" },
+                                { "distance": "201 - 300 km", "fee": "250 TND" },
+                                { "distance": "> 300 km", "fee": "Devis Personnalisé" }
+                            ],
+                            "feeWaivedNote": "Frais Annulés pour : Contrats MSA, commandes > 10k TND, ou plusieurs clients dans la même zone le même jour."
+                        }
+                    },
+                    "warrantyReturns": {
+                        "title": "Politique de Garantie & Retours",
+                        "sectionNumber": "4.5",
+                        "content": {
+                            "productReturnPolicy": "Politique de Retour de Produit",
+                            "productReturnText": "Les produits standard (Équipement Incendie, EPI, Vêtements de Travail) sont éligibles au retour s'ils sont non ouverts, non utilisés et dans leur emballage d'origine sous 7 jours suivant la livraison.",
+                            "notEligible": "Non Éligibles :",
+                            "notEligibleList": [
+                                "Équipement utilisé ou installé.",
+                                "Produits personnalisés (vêtements imprimés, signalétique personnalisée).",
+                                "Produits endommagés par le client.",
+                                "Retours après 7 jours."
+                            ],
+                            "defectiveProducts": "Produits Défectueux",
+                            "defectiveSubtitle": "Remboursement ou Remplacement Complet",
+                            "defectiveList": [
+                                "Le produit est défectueux ou ne répond pas aux spécifications.",
+                                "Mauvais produit expédié par rapport au devis approuvé.",
+                                "Dommage pendant la livraison (doit être noté sur le bon de livraison).",
+                                "SS+ couvre tous les coûts pour les défauts de fabrication authentiques."
+                            ],
+                            "serviceRefundPolicy": "Politique de Remboursement & Crédit de Service",
+                            "serviceRefundText": "Les crédits de service sont émis lorsque le travail n'est pas effectué comme spécifié, des retards importants surviennent (faute SS+), ou une insatisfaction majeure est vérifiée.",
+                            "issueSeverityHeaders": {
+                                "severity": "Sévérité du Problème",
+                                "creditRange": "Plage de Crédit"
+                            },
+                            "severityRows": [
+                                { "severity": "Erreur/Retard mineur", "credit": "10 - 25%" },
+                                { "severity": "Défaillance modérée", "credit": "25 - 50%" },
+                                { "severity": "Défaillance complète", "credit": "Crédit Complet (Rare)" }
+                            ],
+                            "approvalLevels": "Niveaux d'Approbation :",
+                            "approvalList": [
+                                "Jusqu'à 1 000 TND : Responsable des Opérations",
+                                "1 000 - 5 000 TND : Responsable Commercial",
+                                "Plus de 5 000 TND : Approbation du Gérant"
+                            ],
+                            "refundVsCredit": "Remboursement vs Note de Crédit",
+                            "refundNoteText": "Préférer la note de crédit pour les services futurs. Remboursement en espèces uniquement si le client insiste (approbation du Gérant requise). Remboursement traité sous 10 jours ouvrables."
+                        }
+                    },
+                    "riskManagement": {
+                        "title": "Gestion des Risques : Quand Nous Disons NON",
+                        "sectionNumber": "4.6",
+                        "content": {
+                            "decliningBusiness": "Refus d'Affaires",
+                            "decliningBusinessText": "SS+ donne la priorité à la sécurité technique et à la stabilité financière sur le volume de ventes. Nous déclinons officiellement les affaires dans ces scénarios :",
+                            "financialRisk": "Risque Financier",
+                            "financialRiskText": "Historique de >60 jours de retard ; Refus de fournir l'ID fiscal ; Crédit dépassant les limites commerciales raisonnables.",
+                            "technicalRisk": "Risque Technique",
+                            "technicalRiskText": "En dehors de notre périmètre de certification ; Pas d'équipement approprié ; Risques de sécurité trop élevés pour nos techniciens.",
+                            "customerRisk": "Risque Client",
+                            "customerRiskText": "Réputation litigieuse ; Demandes contraires à l'éthique ; Évasif sur l'identité du propriétaire de l'entreprise.",
+                            "professionalRefusal": "Langage de Refus Professionnel :",
+                            "refusalLanguage": "Malheureusement, selon notre capacité et spécialisation actuelles, nous ne sommes pas le meilleur partenaire pour ce projet. Nous recommandons de contacter [Spécialiste]...",
+                            "redFlagWarning": "Signaux d'Alerte Drapeau Rouge",
+                            "redFlagList": [
+                                { "flag": "Détails Évasifs :", "desc": "Réticent à partager l'enregistrement de l'entreprise ou l'emplacement physique du site." },
+                                { "flag": "Pression Extrême :", "desc": "Pression pour la livraison sans signature de contrat appropriée ou visite du site." },
+                                { "flag": "Demandes de Contournement :", "desc": "Demande de contourner les protocoles de sécurité standard ou frais cachés." },
+                                { "flag": "Offres Contraires à l'Éthique :", "desc": "Demandes implicites ou explicites de pots-de-vin ou rétrocommissions." },
+                                { "flag": "Changements Fréquents :", "desc": "Historique de changement de 3+ fournisseurs de sécurité en 2 ans." }
+                            ],
+                            "escalationWarning": "Escalade : TOUTES les préoccupations de Drapeau Rouge DOIVENT être signalées au Responsable Commercial ou au Gérant avant l'émission d'un devis."
+                        }
+                    },
+                    "documentControl": {
+                        "title": "Contrôle des Documents & Mises à Jour",
+                        "content": {
+                            "versionHistory": "Historique des Versions",
+                            "versionTableHeaders": {
+                                "version": "Version",
+                                "date": "Date",
+                                "changes": "Changements",
+                                "approvedBy": "Approuvé Par"
+                            },
+                            "versionRows": [
+                                { "version": "0.3", "date": "Novembre 2025", "changes": "Publication initiale", "approvedBy": "Karim BEN SALEM" },
+                                { "version": "0.4", "date": "Novembre 2025", "changes": "Remplacement des placeholders par des données réelles, mise à jour des contacts et numéros de définition des marges tarifaires et frais de déplacement, corrections mineures pour la cohérence", "approvedBy": "Karim BEN SALEM" }
+                            ],
+                            "controlledDistribution": "Distribution Contrôlée",
+                            "whoReceives": "Qui Reçoit Ce Manuel :",
+                            "format": "Format :",
+                            "formatText": "Format PDF (copie contrôlée) ; Disponible sur le lecteur partagé / WAVE SYS ; Copie imprimée dans chaque bureau.",
+                            "distributionList": [
+                                "Tous les gérants (copie complète)",
+                                "Tous les représentants commerciaux (copie complète)",
+                                "Chefs d'équipe (copie complète)",
+                                "Techniciens (Sections 1 & 3 sections pertinentes)",
+                                "Nouveaux employés (pendant l'intégration)"
+                            ],
+                            "formalUpdateProcess": "PROCESSUS FORMEL DE MISE À JOUR",
+                            "step01": "01. Soumission",
+                            "step01Text": "Demandes de changement soumises au Resp. Admin avec justification formelle.",
+                            "step02": "02. Revue Opérationnelle",
+                            "step02Text": "Resp. Ventes ou Opérations examinent l'impact sur l'activité terrain.",
+                            "step03": "03. Approbation du Gérant",
+                            "step03Text": "Signature directe de Karim ou Najla BEN SALEM requise pour tout changement de politique.",
+                            "step04": "04. Réédition du Document",
+                            "step04Text": "Admin met à jour le numéro de version, archive les anciennes copies et redistribue le PDF.",
+                            "emergencyUpdates": "MISES À JOUR D'URGENCE",
+                            "emergencyUpdatesText": "Pour les changements légaux ou de sécurité urgents, les Gérants peuvent approuver des mises à jour de politique immédiates par oral/email, suivies d'une révision formelle du document sous 7 jours.",
+                            "appendixQuickReference": "Annexe : Référence Rapide",
+                            "keyContactsSummary": "Résumé des Contacts Clés",
+                            "keyContactsText": "Informations Générales : contact@ssplus.tn / +216 74 45 30 27 · Service d'Urgence : +216 74 45 30 28 · Gérant : Karim BEN SALEM · Responsable Commercial : Najla BEN SALEM · Responsable des Opérations : Mohamed CHRAITI · Admin & Finance : Mohamed Ali LENDA · Recouvrement : Hela DAOUD",
+                            "quickDecisionGuide": "Guide de Décision Rapide",
+                            "quickDecisionText": "Remise > 15% → Responsable Commercial. Remise > 20% → Gérant. Dépense > 500 TND → Responsable des Opérations ou supérieur. Crédit nouveau client → Responsable Commercial (Admin vérifie). Remboursement service > 1 000 TND → Responsable Commercial. Plan de paiement → Responsable Commercial. Pertes → Gérant/Co-Gérant.",
+                            "responseTimeQuickRef": "Référence Rapide des Temps de Réponse",
+                            "responseTimeText": "Téléphone : dans les 3 sonneries · E-mail : 4 heures · Devis : 1 jour ouvré · Planification service : 7 jours · Urgence : 24 heures · Accusé de réception réclamation : 4 heures · Demandes de garantie : 48 heures.",
+                            "servicePromise": "Notre Promesse de Service",
+                            "servicePromiseText": "Travail de qualité — garantie de 6 mois. Réponse rapide — 4 heures pour les demandes, 24 heures pour les urgences. Service professionnel — Techniciens certifiés, uniformes propres, conduite respectueuse. Fiabilité — Nous venons, tenons nos engagements et faisons les choses correctement.",
+                            "acknowledgment": "Accusé de Réception",
+                            "employeeAcknowledgment": "Accusé de Réception de l'Employé :",
+                            "acknowledgmentText": "Je, _________________________, accuse réception et avoir lu le Manuel d'Entreprise SS+. Je comprends :",
+                            "acknowledgmentItems": [
+                                "Les services et valeurs de l'entreprise",
+                                "Mon autorité et mes limites de prise de décision",
+                                "Les normes de service que je dois respecter",
+                                "Les règles commerciales clés que je dois suivre",
+                                "Où trouver les réponses et à qui demander"
+                            ],
+                            "commitmentText": "Je m'engage à suivre les lignes directrices de ce manuel et à demander à mon manager si j'ai des questions.",
+                            "signatureLine": "Signature :",
+                            "dateLine": "Date :",
+                            "positionLine": "Fonction :",
+                            "managerSignatureLine": "Signature du Gérant :",
+                            "footerText": "Sécurité Services Plus - Manuel d'Entreprise v0.4 Confidentiel - Pour Usage Interne Uniquement"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "moneyfinance": {
+        "title": "Manuel Monnaie & Finance",
+        "documentnumber": "DOCUMENT 06",
+        "companyname": "Sécurité Services Plus (SS+)",
+        "companytagline": "Systèmes de Gestion et de Contrôle Financier",
+        "meta": {
+            "version": "Version 1.0",
+            "effectivedate": "Janvier 2025",
+            "documentowner": "Mohamed Ali LENDA (Responsable Admin & Finance)",
+            "documentownershort": "Mohamed Ali LENDA",
+            "approvedby": "Karim BEN SALEM & Najla BEN SALEM (Gérants)",
+            "createdby": "Département Admin & Finance",
+            "reviewfrequency": "Trimestrielle"
+        },
+        "headers": {
+            "documentowner": "Propriétaire du Document",
+            "approvedby": "Approuvé par",
+            "reviewfrequency": "Fréquence de Révision",
+            "createdby": "Créé par"
+        },
+        "toc": {
+            "title": "TABLE DES MATIÈRES",
+            "section1": "1. STRUCTURE FINANCIÈRE",
+            "section1sub1": "1.1 Organisation Financière",
+            "section1sub2": "1.2 Relations Bancaires",
+            "section1sub3": "1.3 Matrice d'Autorité",
+            "section1sub4": "1.4 Contrôles & Fraude",
+            "section2": "2. REVENUS & FACTURATION",
+            "section2sub1": "2.1 Reconnaissance des Revenus",
+            "section2sub2": "2.2 Normes de Facturation",
+            "section2sub3": "2.3 Taux de Taxe (TVA)",
+            "section3": "3. PAIEMENTS & RECOUVREMENTS",
+            "section3sub1": "3.1 Méthodes de Paiement",
+            "section3sub2": "3.2 Gestion du Recouvrement",
+            "section3sub3": "3.3 Procédures de Caisse",
+            "section3sub4": "3.4 Rapprochement Bancaire",
+            "section4": "4. DÉPENSES & ACHATS",
+            "section4sub1": "4.1 Bons de Commande",
+            "section4sub2": "4.2 Autorisation des Dépenses",
+            "section4sub3": "4.3 Petite Caisse",
+            "section4sub4": "4.4 Déplacements & Véhicules",
+            "section4sub5": "4.5 Paiements Fournisseurs",
+            "section5": "5. TARIFICATION & MARGES",
+            "section5sub1": "5.1 Coût & Marge",
+            "section5sub2": "5.2 Gestion de la Liste de Prix",
+            "section5sub3": "5.3 Analyse des Remises",
+            "section5sub4": "5.4 Frais de Déplacement",
+            "section6": "6. GESTION DU CRÉDIT",
+            "section6sub1": "6.1 Évaluation du Crédit",
+            "section6sub2": "6.2 Suivi en Temps Réel",
+            "section6sub3": "6.3 Analyse de l'Âge",
+            "section6sub4": "6.4 Protocole Créances Douteuses",
+            "section7": "7. RAPPORTS & KPIs",
+            "section7sub1": "7.1 Rapports Mensuels",
+            "section7sub2": "7.2 KPIs Financiers",
+            "section7sub3": "7.3 Cycle Budgétaire",
+            "section7sub4": "7.4 Calendrier Financier",
+            "section8": "8. COMPTABILITÉ & CONFORMITÉ",
+            "section8sub1": "8.1 Plan Comptable",
+            "section8sub2": "8.2 Système Softcom",
+            "section8sub3": "8.3 Conformité Fiscale",
+            "section8sub4": "8.4 Piste d'Audit",
+            "section8sub5": "8.5 Audit Externe",
+            "section9": "9. PLANIFICATION FINANCIÈRE",
+            "section9sub1": "9.1 Processus Budgétaire",
+            "section9sub2": "9.2 Prévision de Trésorerie",
+            "section9sub3": "9.3 Décisions CapEx",
+            "section9sub4": "9.4 Gestion des Risques",
+            "section9sub5": "9.5 Assurance",
+            "appendices": "Appendices"
+        },
+        "budgetapprovalflow": {
+            "header": {
+                "subtitle": "Flux de Travail Interactif",
+                "title": "Logique d'Approbation Budgétaire"
+            },
+            "legend": {
+                "entry": "Entrée",
+                "review": "Révision"
+            },
+            "nodes": {
+                "purchaserequisition": {
+                    "label": "Demande d'Achat",
+                    "role": "STA / DEPT",
+                    "description": "Demande numérique via Softcom"
+                },
+                "deptapproval": {
+                    "label": "Approbation Dept.",
+                    "role": "RESPONSABLE",
+                    "description": "Vérification obligatoire pour toutes les lignes"
+                },
+                "financevalidation": {
+                    "label": "Validation Finance",
+                    "role": "DIR FINANCE",
+                    "description": "Requis pour montants > 1 000 TND"
+                },
+                "gmauthorization": {
+                    "label": "Autorisation DG",
+                    "role": "GÉRANT",
+                    "description": "Approbation stratégique pour montants > 5 000 TND"
+                },
+                "poissued": {
+                    "label": "BC Émis",
+                    "role": "ADMIN SERVICE",
+                    "description": "Autorisation complétée. Commande envoyée."
+                }
+            },
+            "edges": {
+                "authlevel": "Niveau d'Auth",
+                "over1k": "> 1k TND",
+                "over5k": "> 5k TND",
+                "autopass": "< 1 000 TND (Auto-Pass)"
+            }
+        },
+        "financialstructure": {
+            "section": {
+                "header": "Section 1: STRUCTURE FINANCIÈRE & CONTRÔLES"
+            },
+            "financialorg": {
+                "subsectionheader": "1.1 ORGANISATION FINANCIÈRE",
+                "legalidentity": {
+                    "title": "Identité Légale",
+                    "legalentity": "Entité Légale",
+                    "sarl": "SARL",
+                    "companyname": "Nom de l'Entreprise",
+                    "companynamevalue": "Sécurité Services Plus",
+                    "taxid": "Matricule Fiscal",
+                    "taxidvalue": "0004567B/A/M/000",
+                    "financialyear": "Année Fiscale",
+                    "financialyearvalue": "01 Jan — 31 Déc"
+                },
+                "managementteam": {
+                    "title": "Équipe de Gestion Financière",
+                    "mohamedali": {
+                        "name": "Mohamed Ali LENDA",
+                        "role": "Responsable Admin & Finance",
+                        "responsibility": "Opérations quotidiennes, Comptabilité, Conformité fiscale."
+                    },
+                    "managers": {
+                        "name": "Gérants (Karim & Najla)",
+                        "role": "Supervision Financière",
+                        "responsibility": "Stratégie, Signataires, Approbation des investissements et dépenses majeures."
+                    },
+                    "hela": {
+                        "name": "Hela DAOUD",
+                        "role": "Resp. Recouvrement (AR)",
+                        "responsibility": "Suivi des paiements, Monitoring du crédit, Plans de recouvrement."
+                    },
+                    "mohamed": {
+                        "name": "Mohamed CHRAITI",
+                        "role": "Responsable Opérations",
+                        "responsibility": "Approbation des dépenses opérationnelles, Suivi de la rentabilité."
+                    }
+                }
+            },
+            "banking": {
+                "subsectionheader": "1.2 RELATIONS BANCAIRES & SIGNATAIRES",
+                "ubci": {
+                    "title": "UBCI",
+                    "subtitle": "Compte d'Exploitation Principal",
+                    "item1": "Paiements Entrants Clients",
+                    "item2": "Paiements Sortants Fournisseurs / Paie",
+                    "item3": "Gestion Quotidienne de la Trésorerie"
+                },
+                "btk": {
+                    "title": "BTK",
+                    "subtitle": "Compte Secondaire & Réserve",
+                    "item1": "Fonds de Réserve Stratégique",
+                    "item2": "Transactions Exceptionnelles",
+                    "item3": "Facilités de Crédit"
+                },
+                "reconciliation": {
+                    "title": "Protocole de Rapprochement",
+                    "description": "Les rapprochements sont effectués mensuellement via Softcom et revus par le Gérant."
+                }
+            },
+            "authoritymatrix": {
+                "subsectionheader": "1.3 MATRICE D'AUTORITÉ FINANCIÈRE",
+                "header": {
+                    "limit": "Limite (TND)",
+                    "approver": "Approbateur Requis",
+                    "method": "Méthode de Paiement"
+                },
+                "rows": {
+                    "low": {
+                        "limit": "0 — 500",
+                        "role": "Chef de Service",
+                        "method": "Petite Caisse / BC"
+                    },
+                    "mid": {
+                        "limit": "501 — 5 000",
+                        "role": "Resp. Admin & Finance",
+                        "method": "Virement / Chèque"
+                    },
+                    "high": {
+                        "limit": "5 001 — 10 000",
+                        "role": "Gérant Unique",
+                        "method": "Virement / Chèque"
+                    },
+                    "strategic": {
+                        "limit": "> 10 000",
+                        "role": "Les deux Gérants",
+                        "method": "Virement / Chèque"
+                    }
+                }
+            },
+            "fraudcontrols": {
+                "subsectionheader": "1.4 CONTRÔLES INTERNES & PRÉVENTION DE LA FRAUDE",
+                "segregation": {
+                    "title": "Ségrégation des Tâches",
+                    "item1": "Double signature pour tout montant > 10 000 TND.",
+                    "item2": "Accès Softcom restreints par rôle.",
+                    "item3": "Inventaires de stock surprises."
+                },
+                "whistleblower": {
+                    "title": "Signalement d'Irrégularités",
+                    "description": "Tout employé peut signaler une fraude potentielle directement aux Gérants par écrit.",
+                    "channel": "Canal : Courrier Confidentiel Admin"
+                }
+            }
+        },
+        "revenueinvoicing": {
+            "section": {
+                "header": "Section 2: REVENUS & FACTURATION"
+            },
+            "revenuerecognition": {
+                "subsectionheader": "2.1 RECONNAISSANCE DES REVENUS",
+                "rules": {
+                    "title": "Règles de Reconnaissance",
+                    "recurring": {
+                        "title": "Services Récurrents (Gardiennage)",
+                        "description": "Reconnu mensuellement à terme échu après la prestation du service."
+                    },
+                    "equipment": {
+                        "title": "Ventes d'Équipement",
+                        "description": "Reconnu lors de la livraison physique et de l'acceptation par le client (Bon de Livraison)."
+                    },
+                    "installation": {
+                        "title": "Projets d'Installation",
+                        "description": "Reconnu selon la méthode de l'avancement ou à l'achèvement complet pour les petits projets."
+                    }
+                }
+            },
+            "invoicingstandards": {
+                "subsectionheader": "2.2 NORMES DE FACTURATION",
+                "manual": {
+                    "title": "Processus de Facturation (Softcom)",
+                    "step1": "Vérification du Bon de Travail / Livraison.",
+                    "step2": "Saisie des données dans le module de facturation Softcom.",
+                    "step3": "Validation par le Responsable Financier.",
+                    "step4": "Émission et envoi au client (Email + Papier)."
+                },
+                "requirements": {
+                    "title": "Éléments Obligatoires de la Facture",
+                    "item1": "Matricule Fiscal de SS+ et du Client.",
+                    "item2": "Date d'émission et numéro de facture unique.",
+                    "item3": "Description détaillée des biens/services.",
+                    "item4": "Base Hors Taxe (HT), Taux de TVA, et Total TTC."
+                }
+            },
+            "taxation": {
+                "subsectionheader": "2.3 FISCALITÉ (TVA)",
+                "rates": {
+                    "title": "Taux de TVA Applicables",
+                    "standard": "19% (Taux Standard)",
+                    "standarddesc": "Appliqué à la majorité des équipements et services.",
+                    "reduced": "7% / 13% (Taux Réduits)",
+                    "reduceddesc": "Appliqués à des catégories spécifiques selon la loi de finances en vigueur.",
+                    "exempt": "Exonéré (0%)",
+                    "exemptdesc": "Nécessite une attestation d'exonération valide du client."
+                }
+            }
+        },
+        "paymentscollections": {
+            "section": {
+                "header": "Section 3: PAIEMENTS & RECOUVREMENTS"
+            },
+            "paymentmethods": {
+                "subsectionheader": "3.1 MÉTHODES DE PAIEMENT ACCEPTEÉS",
+                "methods": {
+                    "virement": {
+                        "title": "Virement Bancaire (Préféré)",
+                        "description": "Méthode la plus sûre. Les détails bancaires sont sur chaque facture."
+                    },
+                    "cheque": {
+                        "title": "Chèque",
+                        "description": "Libellé à l'ordre de 'Sécurité Services Plus'. Doit être barré."
+                    },
+                    "cash": {
+                        "title": "Espèces",
+                        "description": "Uniquement pour montants < 1 000 TND au bureau contre reçu officiel."
+                    }
+                }
+            },
+            "collectionmgmt": {
+                "subsectionheader": "3.2 GESTION DU RECOUVREMENT",
+                "timeline": {
+                    "title": "Calendrier de Suivi",
+                    "t0": "Émission de la facture.",
+                    "t15": "Rappel amical par téléphone/email.",
+                    "t30": "Lettre de relance officielle (Niveau 1).",
+                    "t45": "Mise en demeure et suspension de service."
+                },
+                "policies": {
+                    "title": "Politiques de Crédit",
+                    "terms": "Conditions standards : Net 30 jours.",
+                    "limits": "Les limites de crédit sont révisées trimestriellement."
+                }
+            },
+            "cashprocedures": {
+                "subsectionheader": "3.3 PROCÉDURES DE CAISSE",
+                "handling": {
+                    "title": "Manipulation des Espèces",
+                    "item1": "Double comptage systématique.",
+                    "item2": "Enregistrement immédiat dans le journal de caisse.",
+                    "item3": "Dépôt bancaire quotidien pour les montants importants."
+                }
+            },
+            "bankreconciliation": {
+                "subsectionheader": "3.4 RAPPROCHEMENT BANCAIRE",
+                "process": {
+                    "title": "Processus de Rapprochement",
+                    "description": "Comparaison entre le relevé bancaire et le grand livre Softcom pour identifier les écarts.",
+                    "frequency": "Mensuelle (Avant le 10)."
+                }
+            }
+        },
+        "expensespurchases": {
+            "section": {
+                "header": "Section 4: DÉPENSES & ACHATS"
+            },
+            "purchaseorders": {
+                "subsectionheader": "4.1 BONS DE COMMANDE (BC)",
+                "rules": {
+                    "title": "Règles des BC Obligatoires",
+                    "inventory": {
+                        "title": "Achats de Stock",
+                        "description": "Obligatoire pour tout équipement, EPI ou uniforme."
+                    },
+                    "assets": {
+                        "title": "Immobilisations",
+                        "description": "Obligatoire pour tout achat de matériel ou véhicule."
+                    },
+                    "services": {
+                        "title": "Contrats de Service",
+                        "description": "Obligatoire pour les contrats dépassant 500 TND."
+                    }
+                },
+                "threewaymatch": {
+                    "title": "Triple Concordance",
+                    "description": "Vérification systématique : BC + Bon de Livraison + Facture."
+                }
+            },
+            "expenseauth": {
+                "subsectionheader": "4.2 AUTORISATION DES DÉPENSES",
+                "table": {
+                    "header": {
+                        "category": "Catégorie",
+                        "approver": "Approbateur",
+                        "constraint": "Contrainte"
+                    },
+                    "rows": {
+                        "salaries": {
+                            "cat": "Salaires",
+                            "app": "Gérant (Paie)",
+                            "con": "Budget annuel."
+                        },
+                        "fuel": {
+                            "cat": "Carburant",
+                            "app": "Resp. Opérations",
+                            "con": "Limites cartes."
+                        },
+                        "office": {
+                            "cat": "Fournitures",
+                            "app": "Resp. Finance",
+                            "con": "Revue annuelle."
+                        }
+                    }
+                }
+            },
+            "pettycash": {
+                "subsectionheader": "4.3 PETITE CAISSE",
+                "rules": {
+                    "title": "Usage de la Petite Caisse",
+                    "description": "Uniquement pour petits achats urgents < 50 TND. Interdit pour le stock."
+                }
+            },
+            "travelvehicle": {
+                "subsectionheader": "4.4 DÉPLACEMENTS & VÉHICULES",
+                "policy": {
+                    "title": "Politique de Flotte",
+                    "item1": "Utilisation de carnets de bord obligatoire.",
+                    "item2": "Entretien préventif selon calendrier constructeur.",
+                    "item3": "Audit mensuel de la consommation de carburant."
+                }
+            },
+            "supplierpayments": {
+                "subsectionheader": "4.5 PAIEMENTS FOURNISSEURS",
+                "process": {
+                    "title": "Processus de Paiement",
+                    "step1": "Validation de la triple concordance.",
+                    "step2": "Préparation des chèques/virements le vendredi.",
+                    "step3": "Double signature pour les montants stratégiques."
+                }
+            }
+        },
+        "pricingmargins": {
+            "section": {
+                "header": "Section 5: TARIFICATION & MARGES"
+            },
+            "costmarkup": {
+                "subsectionheader": "5.1 STRUCTURE DES COÛTS & MARGE",
+                "components": {
+                    "title": "Composantes du Coût",
+                    "product": {
+                        "title": "Coût Produit",
+                        "desc": "Prix d'achat + transport + douane."
+                    },
+                    "service": {
+                        "title": "Coût Service",
+                        "desc": "Main d'œuvre + logistique + consommables."
+                    }
+                },
+                "formula": {
+                    "title": "Formule de Prix",
+                    "description": "Prix de Vente = Coût × (1 + Marge %)"
+                },
+                "table": {
+                    "fireextinguishers": { "cat": "Extincteurs", "mark": "35% - 45%", "min": "25%" },
+                    "ppe": { "cat": "EPI", "mark": "30% - 40%", "min": "20%" },
+                    "uniforms": { "cat": "Tenues", "mark": "30% - 40%", "min": "25%" },
+                    "inspection": { "cat": "Maintenance", "mark": "40% - 50%", "min": "30%" }
+                }
+            },
+            "pricelist": {
+                "subsectionheader": "5.2 GESTION DES TARIFS",
+                "rules": {
+                    "title": "Mise à Jour des Tarifs",
+                    "frequency": "Révision trimestrielle.",
+                    "validity": "Devis valables 30 jours."
+                }
+            },
+            "discountanalysis": {
+                "subsectionheader": "5.3 ANALYSE DES REMISES",
+                "rules": {
+                    "title": "Niveaux d'Approbation Remises",
+                    "tier1": "Commercial : Jusqu'à 10%.",
+                    "tier2": "Resp. Ventes : Jusqu'à 20%.",
+                    "tier3": "Gérant : > 20%."
+                }
+            },
+            "travelfees": {
+                "subsectionheader": "5.4 FRAIS DE DÉPLACEMENT",
+                "zones": {
+                    "title": "Zones de Déplacement",
+                    "zone1": { "name": "Zone 1", "radius": "0-50 km", "fee": "Gratuit" },
+                    "zone2": { "name": "Zone 2", "radius": "51-150 km", "fee": "50 TND" },
+                    "zone3": { "name": "Zone 3", "radius": "> 150 km", "fee": "Sur Devis" }
+                }
+            }
+        },
+        "creditmanagement": {
+            "section": {
+                "header": "Section 6: GESTION DU CRÉDIT"
+            },
+            "crediteval": {
+                "subsectionheader": "6.1 ÉVALUATION DU CRÉDIT",
+                "scorecard": {
+                    "title": "Fiche de Score Nouveau Client",
+                    "tradehistory": "Historique commercial (2-3 références).",
+                    "legalstanding": "Identifiant fiscal et statut juridique.",
+                    "financialops": "Références bancaires."
+                },
+                "limits": {
+                    "title": "Matrice des Limites",
+                    "tiera": { "level": "Niveau A", "limit": "10 000 TND", "auth": "DG" },
+                    "tierb": { "level": "Niveau B", "limit": "5 000 TND", "auth": "Resp. Ventes" }
+                }
+            },
+            "creditmonitoring": {
+                "subsectionheader": "6.2 SUIVI DU CRÉDIT",
+                "rules": {
+                    "title": "Actions de Contrôle",
+                    "onhold": "Compte bloqué en cas de dépassement de limite.",
+                    "notices": "Avis automatique envoyé au client à 80% de la limite."
+                }
+            },
+            "aginganalysis": {
+                "subsectionheader": "6.3 ANALYSE DE LA BALANCE ÂGÉE",
+                "categories": {
+                    "title": "Tranches de Retard",
+                    "current": "0-30 jours : Suivi normal.",
+                    "overdue30": "31-60 jours : Suspension de crédit.",
+                    "overdue60": "61-90 jours : Suspension de service.",
+                    "overdue90": "> 90 jours : Action juridique."
+                }
+            },
+            "baddebt": {
+                "subsectionheader": "6.4 CRÉANCES DOUTEUSES",
+                "protocol": {
+                    "title": "Protocole de Radiation",
+                    "description": "Nécessite l'approbation signée des deux Gérants après épuisement des voies de recours."
+                }
+            }
+        },
+        "reportingkpis": {
+            "section": {
+                "header": "Section 7: RAPPORTS & KPIs"
+            },
+            "financialreports": {
+                "subsectionheader": "7.1 RAPPORTS FINANCIERS",
+                "table": {
+                    "header": {
+                        "type": "Type de Rapport",
+                        "freq": "Fréquence",
+                        "audience": "Public"
+                    },
+                    "rows": {
+                        "cashflow": { "type": "Cash-Flow", "freq": "Hebdomadaire", "aud": "Direction" },
+                        "pnl": { "type": "P&L (Pertes & Profits)", "freq": "Mensuel", "aud": "Gérants" },
+                        "budget": { "type": "Budget vs Réel", "freq": "Trimestriel", "aud": "Chefs de Service" }
+                    }
+                }
+            },
+            "kpianalysis": {
+                "subsectionheader": "7.2 KPIs FINANCIERS",
+                "metrics": {
+                    "title": "Indicateurs Clés",
+                    "dso": { "name": "DSO (Délai de Paiement)", "target": "< 45 jours" },
+                    "margin": { "name": "Marge Nette", "target": "> 15%" },
+                    "liquidity": { "name": "Ratio de Liquidité", "target": "> 1.5" }
+                }
+            }
+        },
+        "accountingcompliance": {
+            "section": {
+                "header": "Section 8: COMPTABILITÉ & CONFORMITÉ"
+            },
+            "generalledger": {
+                "subsectionheader": "8.1 GESTION DU GRAND LIVRE",
+                "rules": {
+                    "title": "Principes du Grand Livre",
+                    "system": "Utilisation exclusive du système Softcom pour tout enregistrement comptable.",
+                    "accuracy": "L'exactitude des données est sous la responsabilité du Responsable Administratif & Financier."
+                }
+            },
+            "taxcompliance": {
+                "subsectionheader": "8.2 CONFORMITÉ FISCALE",
+                "calendar": {
+                    "title": "Calendrier Fiscal Tunisien",
+                    "monthly": "Déclarations mensuelles avant le 15 (TVA, Retenues).",
+                    "annual": "Déclaration annuelle avant le 25 mars."
+                }
+            },
+            "auditcontrols": {
+                "subsectionheader": "8.3 CONTRÔLES D'AUDIT",
+                "internal": {
+                    "title": "Contrôles Internes",
+                    "item1": "Rapprochement bancaire mensuel.",
+                    "item2": "Inventaire physique trimestriel.",
+                    "item3": "Revue des accès système annuelle."
+                }
+            }
+        },
+        "financialplanning": {
+            "section": {
+                "header": "Section 9: PLANIFICATION FINANCIÈRE"
+            },
+            "budgeting": {
+                "subsectionheader": "9.1 PROCESSUS BUDGÉTAIRE",
+                "cycle": {
+                    "title": "Cycle de Planification",
+                    "october": "Collecte des besoins des départements.",
+                    "november": "Consolidation et arbitrage.",
+                    "december": "Validation finale par les Gérants."
+                }
+            },
+            "cashflowforecast": {
+                "subsectionheader": "9.2 PRÉVISION DE TRÉSORERIE",
+                "rules": {
+                    "title": "Gestion du Cash",
+                    "reserve": "Maintien d'une réserve de liquidité de 20 000 TND.",
+                    "monitoring": "Suivi hebdomadaire des entrées et sorties prévisionnelles."
+                }
+            }
+        },
+        "appendices": {
+            "section": {
+                "header": "APPENDICES"
+            },
+            "glossary": {
+                "subsectionheader": "A. GLOSSAIRE",
+                "dso": "DSO : Délai moyen de recouvrement des créances clients.",
+                "tva": "TVA : Taxe sur la Valeur Ajoutée.",
+                "bc": "BC : Bon de Commande."
+            },
+            "links": {
+                "subsectionheader": "B. LIENS UTILES",
+                "softcom": "Portail Softcom",
+                "intranet": "Intranet SS+ - Archive Financière"
+            }
+        }
+    },
+    "productsinventory": {
+        "title": "Manuel des Produits & Stocks",
+        "documentnumber": "SECTION 4",
+        "companyname": "Safety & Security Plus",
+        "companytagline": "L'Excellence en Solutions de Sécurité",
+        "meta": {
+            "version": "Version 1.0",
+            "effectivedate": "Janvier 2025",
+            "documentowner": "Najla BEN SALEM (Co-Gérante & Resp. Ventes)",
+            "documentownershort": "Najla BEN SALEM",
+            "approvedby": "Karim BEN SALEM (Gérant)",
+            "createdby": "Anis HWAS (WAVE IO)",
+            "reviewfrequency": "Trimestriel"
+        },
+        "headers": {
+            "documentowner": "Propriétaire du Document",
+            "approvedby": "Approuvé par",
+            "reviewfrequency": "Fréquence de Révision",
+            "createdby": "Document créé et développé par"
+        },
+        "toc": {
+            "title": "TABLE DES MATIÈRES",
+            "section1": "Section 1 : Catalogue Produits & Spécifications",
+            "section1sub1": "1.1 Gamme d'Équipement Incendie",
+            "section1sub2": "1.2 EPI & Vêtements de Travail",
+            "section1sub3": "1.3 Signalisation de Sécurité",
+            "section1sub4": "1.4 Recharges & Consommables",
+            "section1sub5": "1.5 Système de Codage des Produits",
+            "section2": "Section 2 : Procédures d'Achat",
+            "section2sub1": "2.1 Demande d'Achat",
+            "section2sub2": "2.2 Approbation & Autorité",
+            "section2sub3": "2.3 Sélection Fournisseurs & BC",
+            "section2sub4": "2.4 Achats d'Urgence",
+            "section2sub5": "2.5 Procédures d'Importation",
+            "section2sub6": "2.6 Réception & Contrôle Qualité",
+            "section3": "Section 3 : Gestion d'Entrepôt",
+            "section3sub1": "3.1 Aménagement & Organisation",
+            "section3sub2": "3.2 Réception Quotidienne (6 Étapes)",
+            "section3sub3": "3.3 Normes de Stockage",
+            "section3sub4": "3.4 Identification des Stocks",
+            "section3sub5": "3.5 Préparation & Sortie",
+            "section3sub6": "3.6 Matières Dangereuses",
+            "section4": "Section 4 : Contrôle des Stocks",
+            "section4sub1": "4.1 Système Min/Max",
+            "section4sub2": "4.2 Classification ABC",
+            "section4sub3": "4.3 Prévision de la Demande",
+            "section4sub4": "4.4 Inventaire Physique",
+            "section4sub5": "4.5 Inventaire Tournant",
+            "section4sub6": "4.6 Stocks à Rotation Lente & Obsolètes"
+        }
+    },
+    "servicedelivery": {
+        "title": "Manuel de Livraison de Service",
+        "documentnumber": "DOCUMENT 03",
+        "companyname": "Sécurité Services Plus (SS+)",
+        "companytagline": "Opérations Techniques & Excellence de Service",
+        "meta": {
+            "version": "Version 1.0",
+            "effectivedate": "Janvier 2025",
+            "documentowner": "Mohamed CHRAITI (Responsable des Opérations)",
+            "documentownershort": "Mohamed CHRAITI",
+            "approvedby": "Karim BEN SALEM (Gérant)",
+            "createdby": "Anis HWAS (WAVE IO)",
+            "reviewfrequency": "Annuelle"
+        },
+        "headers": {
+            "documentowner": "Propriétaire du Document",
+            "approvedby": "Approuvé Par",
+            "reviewfrequency": "Fréquence de Révision",
+            "createdby": "Créé Par"
+        },
+        "toc": {
+            "title": "TABLE DES MATIÈRES",
+            "section1": "1. PLANIFICATION & ORDONNANCEMENT",
+            "section1sub1": "1.1 Planification Annuelle et Mensuelle",
+            "section1sub2": "1.2 Planification Hebdomadaire des Routes",
+            "section1sub3": "1.3 Règles d'Affectation des Techniciens",
+            "section1sub4": "1.4 Allocation Véhicules & Équipements",
+            "section1sub5": "1.5 Liste de Préparation Service",
+            "section1sub6": "1.6 Gestion des Appels d'Urgence",
+            "section2": "2. SERVICES EXTINCTEURS",
+            "section2sub1": "2.1 Services d'Inspection",
+            "section2sub2": "2.2 Procédures de Recharge",
+            "section2sub3": "2.3 Remplacement de Composants",
+            "section2sub4": "2.4 Coordination des Essais Hydrostatiques",
+            "section2sub5": "2.5 Procédures de Contrôle Qualité",
+            "section2sub6": "2.6 Normes de Signature & Photos",
+            "section3": "3. AUTRES ÉQUIPEMENTS INCENDIE",
+            "section3sub1": "3.1 Services RIA",
+            "section3sub2": "3.2 Inspection Couvertures Anti-feu",
+            "section3sub3": "3.3 Services Détecteurs de Fumée",
+            "section3sub4": "3.4 Services Alarmes Incendie",
+            "section4": "4. NORMES SERVICE SUR SITE",
+            "section4sub1": "4.1 Accès Client & Sécurité",
+            "section4sub2": "4.2 Normes de Conduite Professionnelle",
+            "section4sub3": "4.3 Communication Client",
+            "section4sub4": "4.4 Exigences Spécifiques du Site",
+            "section4sub5": "4.5 Méthodes d'Exécution Service Sur Site",
+            "section5": "5. DOCUMENTATION SERVICE",
+            "section5sub1": "5.1 Formulaires & Rapports Requis",
+            "section5sub2": "5.2 Documentation Digitale WAVE PLUS",
+            "section5sub3": "5.3 Normes de Documentation Photo",
+            "section5sub4": "5.4 Procédures de Signature Client",
+            "section5sub5": "5.5 Soumission & Classement Documents",
+            "section6": "6. GESTION PIÈCES & MATÉRIAUX",
+            "section6sub1": "6.1 Gestion Stock Véhicule",
+            "section6sub2": "6.2 Inventaire Matériaux de Recharge",
+            "section6sub3": "6.3 Inventaire Pièces Détachées",
+            "section6sub4": "6.4 Enregistrement Utilisation Stock",
+            "section6sub5": "6.5 Procédures de Réapprovisionnement",
+            "section7": "7. ÉQUIPEMENTS & OUTILS",
+            "section7sub1": "7.1 Équipement Requis par Véhicule",
+            "section7sub2": "7.2 Entretien & Soin des Outils",
+            "section7sub3": "7.3 Calendrier de Calibration",
+            "section7sub4": "7.4 Équipement Perdu ou Endommagé",
+            "section8": "8. OPÉRATIONS ATELIER",
+            "section8sub1": "8.1 Atelier Principal Sfax",
+            "section8sub2": "8.2 Atelier Succursale Tunis",
+            "section8sub3": "8.3 Sécurité & Organisation Atelier",
+            "section8sub4": "8.4 Maintenance Équipement"
+        }
+    }
+}
+

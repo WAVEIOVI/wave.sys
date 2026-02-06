@@ -1,0 +1,249 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+@layer base {
+  body {
+    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-white;
+    @apply font-sans antialiased;
+    @apply transition-colors duration-300;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Custom Utilities */
+@layer utilities {
+
+  /* Glass-morphism effects */
+  .glass {
+    @apply bg-white/70 dark:bg-gray-900/70;
+    @apply backdrop-blur-md;
+    @apply border border-white/20 dark:border-white/10;
+  }
+
+  .glass-card {
+    @apply glass rounded-xl shadow-glass dark:shadow-glass-dark;
+    @apply transition-all duration-300;
+  }
+
+  .glass-card:hover {
+    @apply shadow-xl dark:shadow-2xl;
+    @apply transform -translate-y-1;
+  }
+
+  /* Gradient backgrounds */
+  .gradient-primary {
+    @apply bg-gradient-to-r from-primary-500 to-secondary-500;
+  }
+
+  .gradient-hero {
+    @apply bg-gradient-to-br from-primary-500 via-accent-500 to-secondary-500;
+  }
+
+  /* Text gradients */
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-secondary-500;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    @apply w-1.5 h-1.5;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-gray-300 dark:bg-gray-600 rounded-full;
+    @apply border-2 border-transparent bg-clip-padding;
+    @apply hover:bg-gray-400 dark:hover:bg-gray-500;
+  }
+
+  /* Global scrollbar for non-webkit browsers */
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.gray.300') transparent;
+  }
+
+  .dark html {
+    scrollbar-color: theme('colors.gray.600') transparent;
+  }
+}
+
+/* Component Styles */
+@layer components {
+
+  /* Button base styles */
+  .btn {
+    @apply inline-flex items-center justify-center;
+    @apply px-6 py-3 rounded-lg;
+    @apply font-semibold transition-all duration-200;
+    @apply focus:outline-none focus:ring-2 focus:ring-offset-2;
+    @apply disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary-600 hover:bg-primary-700 text-white;
+    @apply focus:ring-primary-500;
+    @apply shadow-md hover:shadow-lg;
+    @apply active:scale-98;
+  }
+
+  .btn-secondary {
+    @apply btn bg-transparent border-2 border-primary-600 text-primary-600;
+    @apply hover:bg-primary-50 dark:hover:bg-primary-900/20;
+    @apply focus:ring-primary-500;
+  }
+
+  .btn-ghost {
+    @apply btn bg-transparent hover:bg-gray-100 dark:hover:bg-gray-800;
+    @apply text-gray-700 dark:text-gray-300;
+  }
+
+  /* Input styles */
+  .input {
+    @apply w-full px-4 py-3 rounded-lg;
+    @apply border border-gray-300 dark:border-gray-600;
+    @apply bg-white dark:bg-gray-800;
+    @apply text-gray-900 dark:text-white;
+    @apply placeholder-gray-400 dark:placeholder-gray-500;
+    @apply focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent;
+    @apply transition-all duration-200;
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-white dark:bg-gray-800;
+    @apply rounded-xl p-6;
+    @apply border border-gray-200 dark:border-gray-700;
+    @apply shadow-sm hover:shadow-md;
+    @apply transition-all duration-300;
+  }
+
+  /* Link styles */
+  .link {
+    @apply text-primary-600 dark:text-primary-400;
+    @apply hover:text-primary-700 dark:hover:text-primary-300;
+    @apply underline-offset-4 hover:underline;
+    @apply transition-colors duration-200;
+  }
+
+  /* Document Typography & Colors */
+  .document-content {
+    @apply text-[#212529] dark:text-[#E0E0E0] leading-relaxed;
+    max-width: 75ch;
+  }
+
+  .document-content h1 {
+    @apply text-[#DC143C] dark:text-[#FF6B6B] font-bold mt-10 mb-6;
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+
+  .document-content h2 {
+    @apply text-[#DC143C] dark:text-[#FF6B6B] font-semibold mt-12 mb-6;
+    font-size: 2rem;
+  }
+
+  .document-content h3 {
+    @apply text-slate-800 dark:text-slate-100 font-semibold mt-8 mb-4;
+    font-size: 1.75rem;
+  }
+
+  .document-content p {
+    @apply mb-4;
+    font-size: 16px;
+    line-height: 1.7;
+  }
+
+  /* Document Tables */
+  .document-table {
+    @apply w-full border-collapse my-6 rounded-lg overflow-hidden shadow-sm;
+    @apply bg-white dark:bg-[#2D2D2D];
+  }
+
+  .document-table thead {
+    @apply bg-gradient-to-r from-[#DC143C] to-[#B91039] text-white;
+    @apply dark:from-[#B91039] dark:to-[#8B0C2C];
+  }
+
+  .document-table th {
+    @apply py-4 px-4 text-xs font-semibold uppercase tracking-wider text-left;
+    @apply rtl:text-right;
+  }
+
+  .document-table td {
+    @apply py-3.5 px-4 text-sm border-b border-gray-100 dark:border-[#404040];
+    @apply text-[#212529] dark:text-[#E0E0E0];
+  }
+
+  .document-table tbody tr:nth-child(even) {
+    @apply bg-[#F8F9FA] dark:bg-[#333333];
+  }
+
+  .document-table tbody tr:hover {
+    @apply bg-[#FFF5F5] dark:bg-[#3A1F1F] transition-colors duration-200;
+  }
+
+  /* Org Chart Styling */
+  .org-card {
+    @apply bg-white dark:bg-[#2D2D2D] border-2 border-[#DC143C] rounded-lg p-3 min-w-[150px] shadow-sm transition-all duration-300;
+  }
+
+  .org-card:hover {
+    @apply transform -translate-y-0.5 shadow-md;
+    @apply shadow-[#DC143C]/20;
+  }
+
+  .org-card .position-title {
+    @apply text-[#DC143C] font-bold text-sm uppercase;
+  }
+
+  .org-card .person-name {
+    @apply text-slate-700 dark:text-slate-200 text-xs mt-1;
+  }
+}
+
+/* Animation utilities */
+.animate-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.scale-98 {
+  transform: scale(0.98);
+}
+
+.animate-spin-slow {
+  animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Print styles - Enhanced PDF & Print Optimization */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    @apply bg-white text-black;
+  }
+}
+
+/* Include enhanced print styles */
+@import './styles/print.css';
