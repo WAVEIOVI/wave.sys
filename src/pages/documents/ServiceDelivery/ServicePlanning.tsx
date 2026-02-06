@@ -262,7 +262,7 @@ export default function ServicePlanning() {
                                 })}
                             </div>
 
-                            <Blockquote type="info" title="Finalization Rule" className="mt-12">
+                            <Blockquote type="info" title="Finalization Rule">
                                 The monthly schedule must include strategic buffer days for emergencies and unexpected delays. 
                                 Once finalized, it is pushed to all technician tablets via WAVE PLUS before the 1st of each month.
                             </Blockquote>
@@ -943,3 +943,4 @@ export default function ServicePlanning() {
         </Section>
     );
 }
+

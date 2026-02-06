@@ -93,7 +93,7 @@ export default function RelationshipManagement() {
                             ))}
                         </div>
 
-                        <Blockquote type="info" title="QR Code Advantage" className="mt-auto">
+                        <Blockquote type="info" title="QR Code Advantage">
                             Customers scan stickers to see real-time history and next due dates. 
                             This transparency is a major <span className="font-bold underline">SS+ differentiator</span>.
                         </Blockquote>
@@ -463,5 +463,6 @@ export default function RelationshipManagement() {
         </Section>
     );
 }
+
 
 

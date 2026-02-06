@@ -160,7 +160,7 @@ export async function convertReactFlowToImage(reactFlowElement: HTMLElement): Pr
  * Wait for images to load
  */
 export function waitForImages(maxWait = 5000): Promise<void> {
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
         const images = document.querySelectorAll('img');
         let loadedCount = 0;
         const totalImages = images.length;

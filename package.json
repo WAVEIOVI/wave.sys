@@ -1,9 +1,10 @@
 {
-  "name": "wave-sys",
+  "name": "ss-plus-management-system",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Management System - Developed by WAVE IO",
+  "description": "SS PLUS Management System - Developed by WAVE IO (M. Anis HWAS)",
+  "homepage": "https://WAVEIOVI.github.io/wave.sys",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
