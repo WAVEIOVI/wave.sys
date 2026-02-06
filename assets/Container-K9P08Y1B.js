@@ -1,0 +1,1 @@
+import{j as t}from"./index-Xr0Wixvw.js";function o({children:x,size:s="lg",className:a="",...l}){const m={sm:"max-w-4xl",md:"max-w-6xl",lg:"max-w-7xl",full:"max-w-full"};return t.jsx("div",{className:`container mx-auto px-4 sm:px-6 lg:px-8 ${m[s]} ${a}`,...l,children:x})}export{o as C};
